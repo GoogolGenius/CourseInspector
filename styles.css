@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap");
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: "Ubuntu", sans-serif;
 }
 
 :root {
@@ -49,7 +49,7 @@ body {
     border-bottom-left-radius: 30px;
 }
 
-.navigation ul li:hover, 
+.navigation ul li:hover,
 .navigation ul li.hovered {
     background: var(--white);
 }
@@ -100,7 +100,7 @@ body {
 
 .navigation ul li:hover a::before,
 .navigation ul li.hovered a::before {
-    content: '';
+    content: "";
     position: absolute;
     right: 0;
     top: -50px;
@@ -114,7 +114,7 @@ body {
 
 .navigation ul li:hover a::after,
 .navigation ul li.hovered a::after {
-    content: '';
+    content: "";
     position: absolute;
     right: 0;
     bottom: -50px;
