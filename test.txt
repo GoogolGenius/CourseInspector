@@ -1,0 +1,239 @@
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: subsequent: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: subsequent: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: subsequent: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: subsequent: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: subsequent: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: subsequent: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: subsequent: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: subsequent: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: subsequent: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: subsequent: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: fees: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: fees: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: fees: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: fees: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: fees: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: fees: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: fees: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: fees: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: fees: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: grading: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: grading: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: grading: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: grading: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: grading: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: grading: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: grading: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: grading: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: fees: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: fees: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: fees: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: corequisite: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: corequisite: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: corequisite: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: corequisite: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: corequisite: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: corequisite: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: corequisite: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: corequisite: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
+coursename: courseid: gradelevels: credits: length: format: prerequisites: considerations: description: 
