@@ -14,9 +14,7 @@
         "description": "This course develops reading rate and comprehension skills of material presented in all content areas. Each unit will include the reading process, independent reading and vocabulary. Specific units will focus on reading textbooks, fiction, non-fiction, internet, graphics and tests.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "english-i": {
         "coursename": "English I",
@@ -33,9 +31,7 @@
         "description": "This course develops communication skills in reading, speaking, listening, thinking and writing. It includes units in the short story, the novel, poetry, drama and research. The student will practice various forms of writing and will work toward improving grammar, mechanics, and vocabulary.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "rhetoric": {
         "coursename": "Rhetoric",
@@ -52,9 +48,7 @@
         "description": "This course is designed for Venture Academics. Students will work on three foundational skills; reading, writing and speaking relative to the strand focus.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "advanced-english-i": {
         "coursename": "Advanced English I",
@@ -71,9 +65,7 @@
         "description": "This is an accelerated class which emphasizes analytical reading and writing. Students should be independent learners. Students will read several novels, non-fiction, drama and short stories.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "academic-literacy-ii": {
         "coursename": "Academic Literacy II",
@@ -90,9 +82,7 @@
         "description": "This course continues to develop reading rate and comprehension of material presented in all content areas. This course reinforces strategies learning in Academic Literacy I.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "english-ii": {
         "coursename": "English II",
@@ -109,9 +99,7 @@
         "description": "This course continues to develop and refine student skills in the areas of reading, writing, listening, and speaking. It includes units in the short story, novel, and drama. It will also introduce various writing styles (literary analysis, narrative, and research.) In English II work continues on student responsibility, respect for each other, intellectual curiosity, and embracing of varying viewpoints.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "journalism": {
         "coursename": "Journalism",
@@ -128,9 +116,7 @@
         "description": "This course is an introductory, overview class which teaches basic journalism skills while examining the role of newspapers in our society. Areas explored include newspaper interviewing, writing, and editing. Students are also introduced to the concepts of Press Law. This course DOES NOT meet the composition requirement for admission to UNI. Teacher-Led Courses Compass Core",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "advanced-english-ii": {
         "coursename": "Advanced English II",
@@ -147,9 +133,7 @@
         "description": "This is an accelerated version of English II where students will analyze/interpret a variety of American and global literature with an emphasis on analytical writing and interpreting literary pieces. Students will also write argumentative, research, and personal essays. Students should be highly self-motivated and independent and should expect homework each night. This course has a high level of rigor and expectations. The following texts will be covered in class; Selection of short pieces of fiction and nonfiction from American authors and those outside of the global North I am Malala Love Hate & Other Filters Fahrenheit 451 A literary circle novel (The Fishermen, Under the Udala Trees, No Friend but the Mountains) Possible additional texts (Of Mice and Men, House on Mango Street, Shakespeare)",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "english-iii": {
         "coursename": "English III",
@@ -166,9 +150,7 @@
         "description": "Students will analyze and interpret a variety of American literature, including selections from our earliest writers to our foremost contemporaries. Students will also write informative, argumentative, research and personal essays. This is a process-oriented class where students will revise and edit their own work. The following text will be covered in class; Short pieces of fiction and nonfiction from American authors Selections of poetry from Walt Whitman, Emily Dickinson and other American poets The Great Gatsby The Crucible I Know Why the Caged Bird Sings A Raisin in the Sun",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "speech": {
         "coursename": "Speech",
@@ -185,9 +167,7 @@
         "description": "Speech is designed to make students more effective communicators by emphasizing a variety of real-life speaking situations and building self-confidence in all of these settings. Because this is a performance based class, students should carefully consider conflicts which may result in absences.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "advanced-english-iii": {
         "coursename": "Advanced English III",
@@ -204,9 +184,7 @@
         "description": "This is an accelerated version of English III where students will analyze/interpret a variety of American literature with an emphasis on analytical writing and interpreting literary pieces. Students will also write informative, persuasive, research and personal essays. Students should be highly self-motivated and independent and should expect homework each night. This course has a high level of rigor and expectations. The following text will be covered in class; Billy Budd The Awakening The Jungle The Adventures of Huckleberry Finn The Great Gatsby I Know Why the Caged Bird Sings The Crucible Selections of poetry from Walt Whitman, Emily Dickinson and other American poets Short pieces of fiction and nonfiction from American authors",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "british-literature": {
         "coursename": "British Literature",
@@ -223,9 +201,7 @@
         "description": "This course is designed to experiences. Students will read approximately five novels, excerpts from classic British works, historical overviews of the literary periods and articles related to Britain. Students will do individual and group presentations. Among these are; serve on a discussion group for a novel, present their research project, and design and discuss their coat-of-arms.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "classics": {
         "coursename": "Classics",
@@ -242,9 +218,7 @@
         "description": "Students in this course will analyze selected works of literature that speak compassionately of the human experience, that relate human values and that represent some of the best of the literary traditions in order to gain new awareness of themselves and others.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "multicultural-literature": {
         "coursename": "Multicultural Literature",
@@ -261,9 +235,7 @@
         "description": "Students will read selections that deal with across a variety of cultures. Students will complete multiple projects to promote lifelong literacy and will discover how technology and the internet can enhance reading selections. Some selections in this course have a more mature theme.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "contemporary-literature": {
         "coursename": "Contemporary Literature",
@@ -280,9 +252,7 @@
         "description": "Students will read a variety of selected contemporary titles. Students will complete multiple projects to promote lifelong literacy and will discover how technology and the internet can enhance reading selections. Some selections in this course have a more mature theme.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "acting": {
         "coursename": "Acting",
@@ -299,9 +269,7 @@
         "description": "Acting is designed to make students more effective communicators by emphasizing a variety of speaking situations and building self-confidence in all these settings. Because this is a performance-based class, students should carefully consider potential conflicts that may result in absences.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "literature-of-a-selected-author": {
         "coursename": "Literature of a Selected Author",
@@ -318,9 +286,7 @@
         "description": "Students will read, discuss, and analyze a variety of texts surrounding a selected author. Students will relate historical events and their impact on the literature, will relate d/regional events of the time, and social conditions of the works of the author. Students will respond to common elements and",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "communications": {
         "coursename": "Communications",
@@ -337,9 +303,7 @@
         "description": "Communications will prepare students to effectively publicly speak for career and professional endeavors and interactions. Students will understand and apply necessary skills for interviewing, team collaboration, public presentations to school boards and community organizations, creating professional digital profiles, and professional use of social media. Students will develop speaking and listening skills in authentic learning opportunities that address an evolving definition of public speaking.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "creative-writing": {
         "coursename": "Creative Writing",
@@ -356,9 +320,7 @@
         "description": "This course is designed for students who genuinely like to write in a variety of forms. Students will take writing from the initial idea through the developmental and polishing stages.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "college-writing": {
         "coursename": "College Writing",
@@ -375,9 +337,7 @@
         "description": "This course is designed for any student who is considering college, interested in improving general writing skills, and/or considering taking Composition I. Students will improve organizational skills in writing, learn how to develop their ideas, improve their skills in word choice and sentence structure, improve their mechanics in writing, improve their research skills, and learn how to better develop and write a research paper in MLA style. Papers may include the following essays; Personal, Definition, Division/Classification, Comparison/Contrast, and Persuasive. In addition, students will write a research paper in which they will support their position on a contemporary issue.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "college-grammar": {
         "coursename": "College Grammar",
@@ -394,9 +354,7 @@
         "description": "This course develops skills in analyzing sentences and applying rules of standard written English. Included are units on vocabulary development, grammatical punctuation, and editing written products.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "college-reading": {
         "coursename": "College Reading",
@@ -413,9 +371,7 @@
         "description": "This course is designed for students who wish to improve their reading rate and comprehension skills in order to be successful in their studies beyond high school.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "composition-i": {
         "coursename": "Composition I",
@@ -432,9 +388,7 @@
         "description": "This course strengthens skills developed in previous English courses. Particular emphasis is on furthering skills in argument writing. The course critically. Students will complete several formal papers, impromptu essays in response to current events, and two papers involving research. Additionally, students will make presentations and frequently conduct peer review. This class is combination of seminar and lab time.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "composition-ii": {
         "coursename": "Composition II",
@@ -451,9 +405,7 @@
         "description": "This course continues to develop writing skills and critical thinking skills introduced in Composition I, with a particular emphasis on argument analysis. The course requires critical analysis of reading materials, audience and self, and further emphasizes precise and effective use of research tools while honing a arguments. This class is a combination of seminar and lab time.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "ap-english-literature-and-composition": {
         "coursename": "AP English Literature and Composition",
@@ -470,9 +422,7 @@
         "description": "This course is for highly motivated students capable of college level work. Students will further develop critical thinking skills through the study of complex literature and writing numerous literary analyses. Students will be expected to have read one text prior to the beginning of the course, and should check with their instructor for further information.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "english-language-learners-fundamentals": {
         "coursename": "English Language Learners Fundamentals",
@@ -489,9 +439,7 @@
         "description": "This course is designed to writing skills in the English language and develop the skills that students need to be successful at L-M and beyond.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "english-language-learners-i": {
         "coursename": "English Language Learners I",
@@ -508,9 +456,7 @@
         "description": "This course is designed to reading, and writing skills in the English Language. This course focuses on academic reading and writing, analyzing and interpreting different genres which build academic vocabulary and grammar skills.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "english-language-learners-ii": {
         "coursename": "English Language Learners II",
@@ -527,9 +473,7 @@
         "description": "This course is designed to reading, and writing skills in the English language. This course focuses on academic reading and writing, analyzing and interpreting different genres which build academic vocabulary and grammar skills. This course will also focus on the writing process, a variety of essay styles, and writing research papers.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "english-language-learners-iii": {
         "coursename": "English Language Learners III",
@@ -546,9 +490,7 @@
         "description": "This course is designed to reading, and writing skills in the English language. This course focuses on academic reading and writing, analyzing and interpreting different genres which build academic vocabulary and grammar skills. In this course, students will read texts that relate to American history and culture in order to while honing their reading skills. This course will also focus on the writing process, a variety of essay styles, and writing research papers.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "english-language-learners-civics-and-culture-i": {
         "coursename": "English Language Learners Civics and Culture I",
@@ -565,9 +507,7 @@
         "description": "This course is designed to help English Language Learners develop their academic language while building background knowledge about history, government, and culture in the United States.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "english-language-learners-directed-studies": {
         "coursename": "English Language Learners Directed Studies",
@@ -584,9 +524,7 @@
         "description": "This course is designed to assist students with their other academic classes. Supports provided include help with understanding the expectations and assignments for classes, one-on-one tutoring and administration of assessments when necessary.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "english-language-learners-college-prep": {
         "coursename": "English Language Learners College Prep",
@@ -603,9 +541,7 @@
         "description": "This course is designed to the English language. This course will focus on preparing for the ACT and SAT exams through extensive vocabulary, grammar, reading and composition practice. Focus will also be given to the college admissions process, financial aid concerns, scholarship opportunities, personal finance, and career skills.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "work-experience---yearbook": {
         "coursename": "Work Experience - Yearbook",
@@ -622,9 +558,7 @@
         "description": "Yearbook is a project-based class where students will work with the yearbook printing company on real-time deadlines to complete the school yearbook. Students will take photos of school events, write copy, interview students and staff, and design pages for the yearbook. Please note that class will be flexible with any interested Marching Band students Q1.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "level-i-french": {
         "coursename": "Level I French",
@@ -641,9 +575,7 @@
         "description": "This course develops the communicative skills of reading, writing, speaking, and listening. Basic grammar concepts and vocabulary are introduced. The target language is used during class time. Topics include school schedules and subjects, pastimes and activities, likes and dislikes, places, weather, time, family and Paris. Grammar concepts include adjectives and agreement, present tense of er verbs, and irregular verbs avoir, etre, faire, aller, venir as well as stem changing verbs acheter and preferer and the re group of verbs. Students also learn possessive adjectives and the near future.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Foreign Language"
-        ]
+        "tags": ["Foreign Language"]
     },
     "level-i-spanish": {
         "coursename": "Level I Spanish",
@@ -660,9 +592,7 @@
         "description": "This course develops the communicative skills of reading, writing, speaking, and listening. Basic grammar concepts and vocabulary are introduced. The target language is used during class time. Topics include school schedules and subjects, food and beverages, and pastimes. Grammar concepts include adjectives and agreement, me gusta, present tense ar, er, ir verbs, and irregular verbs estar, ser, ir, tener, and jugar.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Foreign Language"
-        ]
+        "tags": ["Foreign Language"]
     },
     "level-ii-french": {
         "coursename": "Level II French",
@@ -679,9 +609,7 @@
         "description": "This course continues to emphasize the communicative skills of reading, writing, speaking, and listening. Grammar concepts, vocabulary, and use of target language are expanded. Topics include eating in a café, clothing and shopping, household chores and parts of the house, shops and stores and travel. Additional units include provinces of France and a cinematographic unit on Marcel Pagnol. Grammar concepts include passe compose, demonstrative adjectives, interrogative adjectives, the partitive and prepositions with places. New verbs are mettre, boire, voir, prendre, savoir, connaitre, appeler,dormer, partir, sortir, vouloir, pouvoir as well as ir verbs. Student also learn command forms.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Foreign Language"
-        ]
+        "tags": ["Foreign Language"]
     },
     "level-ii-spanish": {
         "coursename": "Level II Spanish",
@@ -698,9 +626,7 @@
         "description": "This course continues to emphasize the communicative skills of reading, writing, speaking, and listening. Grammar concepts, vocabulary, and use of target language are expanded. Topics include families, parties, and restaurants, rooms in the house, clothing, stores, and vacation. Grammar concepts include possessive adjectives, comparatives and superlatives, direct object and indirect object pronouns, affirmative tu commands, present progressive and preterite tense. The irregular verbs tener, venir, ser, estar, poder, dormer, pensar, preferir, querer, and decir are introduced.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Foreign Language"
-        ]
+        "tags": ["Foreign Language"]
     },
     "level-iii-french": {
         "coursename": "Level III French",
@@ -717,9 +643,7 @@
         "description": "This course continues to develop and refine the communicative skills of reading, writing, speaking, and listening. Complex grammar concepts are introduced. The target language will be widely utilized. Topics include expansion on prior topics and prior preparation and francophone holidays and cuisine, school places and events, morning routine, childhood memories and activities, animal vocabulary. Grammar topics addressed are direct and indirect object pronouns as well as y and en, extension of passe compose and learning of the imperfect tense, negative expressions, reflexive verbs, comparative and superlative adjectives and nouns. Students should be able to use the near future, present tense and both past tenses. There is also a cinematographic unit with two additional Pagnol films. Students begin to write more extensive and styles of communication in French.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Foreign Language"
-        ]
+        "tags": ["Foreign Language"]
     },
     "level-iii-spanish": {
         "coursename": "Level III Spanish",
@@ -736,9 +660,7 @@
         "description": "This course continues to develop and refine the communicative skills of reading, writing, speaking and listening. Complex grammar concepts are introduced. The target language will be widely utilized. Topics include school, extracurricular activities, special events, clothing, errands, places in the city, and childhood. Grammar concepts include stem changing verbs, negative and affirmative words, reflexive verbs, demonstrative adjectives, direct and indirect object pronouns, affirmative tu commands, present progressive, preterite, and the imperfect tense. The irregular verbs of saber and conocer are introduced.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Foreign Language"
-        ]
+        "tags": ["Foreign Language"]
     },
     "level-iv-french": {
         "coursename": "Level IV French",
@@ -755,9 +677,7 @@
         "description": "Level IV expands the communicative skills of reading, writing, speaking, and listening. Complex grammar concepts are introduced. Class will be conducted extensively in the target language. Topics include outdoor activities, fitness and health, professions, travel plans, movies and reading, the Renaissance. Informal speech register, slang and texting language is also taught. Grammar concepts include the future, the conditional and subjunctive verb tenses, demonstrative, interrogative and possessive pronouns. Present participles and relative pronouns are also learned. There is also a Victor Hugo poetry unit. Students will study current events of the francophone world on a weekly basis.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Foreign Language"
-        ]
+        "tags": ["Foreign Language"]
     },
     "level-iv-spanish": {
         "coursename": "Level IV Spanish",
@@ -774,9 +694,7 @@
         "description": "Level IV expands the communicative skills of reading, writing, speaking, and listening. Complex grammar concepts are introduced. Class will be conducted extensively in the target language. Topics include natural disasters, accidents, emergency room, TV programs, and sporting events, movies, cooking, and camping. Grammar concepts include preterite vs. imperfect, reflexive verbs, gustar-like verbs, impersonal se, por vs. para, imperfect progressive, present perfect, and commands.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Foreign Language"
-        ]
+        "tags": ["Foreign Language"]
     },
     "level-v-spanish": {
         "coursename": "Level V Spanish",
@@ -793,9 +711,7 @@
         "description": "Level V will focus on the communicative skills of reading, writing, speaking, and listening. Complex grammar concepts are introduced. Class will be conducted extensively in the target language. Topics include visiting an airport, planning a trip and traveling to a foreign country, staying in a hotel, professions and making plans for the future, and discussing environmental problems and possible solutions. Grammar concepts includes the review of present, preterite, imperfect, and perfect tenses and the introduction of nosotros commands, future, conditional, and subjunctive tenses. Spanish V will offer students an opportunity to explore the Hispanic culture.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Foreign Language"
-        ]
+        "tags": ["Foreign Language"]
     },
     "intermediate-spanish-i-kcc": {
         "coursename": "Intermediate Spanish I KCC",
@@ -812,9 +728,7 @@
         "description": "In this class, students will continue to develop their ability to communicate in Spanish in everyday, practical situations that they might encounter both in the U.S. and abroad. Along with the development of oral skills, students will also work on the other 3 vital components of language; reading, writing and listening comprehension. Students will actively engage themselves in pair/group activities to express themselves in basic situations. Classroom time will be used for intensive language practice in meaningful contexts (i.e. applying important grammatical concepts, essential vocabulary, and cultural norms needed to maintain basic communication.) Class time will consist of communication activities following grammatical explanations. Students are expected to study and complete assigned workbook, video, lab and textbook activities outside of class.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Foreign Language"
-        ]
+        "tags": ["Foreign Language"]
     },
     "intermediate-spanish-ii-kcc": {
         "coursename": "Intermediate Spanish II KCC",
@@ -831,9 +745,7 @@
         "description": "In this class, students will continue to develop their ability to communicate in Spanish in everyday, practical situations that they might encounter both in the U.S. and abroad. Along with the developments of oral skills, students will also work on the other 3 vital components of language; reading, writing and listening comprehension. Students will actively engage themselves in pair/group activities to express themselves in basic situations. Classroom time will be used for intensive language practice in meaningful contexts. (i.e. applying important grammatical concepts, essential vocabulary, and cultural norms needed to maintain basic communication.) Class time will consist of communication activities following grammatical explanations. Students are expected to study and complete assigned workbook, video, lab and textbook activities outside of class.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Foreign Language"
-        ]
+        "tags": ["Foreign Language"]
     },
     "advanced-placement-french": {
         "coursename": "Advanced Placement French",
@@ -850,9 +762,7 @@
         "description": "This course continues to (communication, cultures, connections, comparisons, and communities) by providing intensive practice in the fundamental communicative skills of listening, speaking, reading and writing, with a methodic study of different cultural contexts. This class offers the opportunity for language use beyond the sphere of the elementary language courses. Discussion of the cultural practices and products of Francophone countries presented in the readings and viewing materials constitute an important part of the course. Comparisons and connections between Francophone and Anglophone cultures and language are also studied as it is a major portion of the AP exam. This course offers university credit in the form of an AP Exam and therefore is considered a college level class.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Foreign Language"
-        ]
+        "tags": ["Foreign Language"]
     },
     "algebra-foundations": {
         "coursename": "Algebra Foundations",
@@ -869,9 +779,7 @@
         "description": "This course is an introductory class for Algebra 1A or Algebra 1. It is designed to review basic skills and math concepts. Elementary algebra skills with variables and problem-solving techniques will be imperative to the curriculum.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Math"
-        ]
+        "tags": ["Math"]
     },
     "algebra-1a": {
         "coursename": "Algebra 1A",
@@ -888,9 +796,7 @@
         "description": "This course is designed to include material covered in the first semester of Algebra 1. Topics include negative numbers, absolute values, opposites, linear equations, and inequalities in word problems.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Math"
-        ]
+        "tags": ["Math"]
     },
     "algebra-1b": {
         "coursename": "Algebra 1B",
@@ -907,9 +813,7 @@
         "description": "This course is designed to include material covered in the second semester of Algebra 1. Topics include negative numbers, absolute values, opposites, linear equations, and inequalities in one variable word problems, factoring, graphing, and quadratic equations.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Math"
-        ]
+        "tags": ["Math"]
     },
     "algebra-1": {
         "coursename": "Algebra 1",
@@ -926,9 +830,7 @@
         "description": "Algebra 1 deals with variables, properties of operations and formulas. Topics include negative numbers, absolute value, opposites, and linear equations in one variable, inequalities in one variable, word problems, factoring, graphing, and quadratic equations.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Math"
-        ]
+        "tags": ["Math"]
     },
     "algebra-priority-standards": {
         "coursename": "Algebra Priority Standards",
@@ -945,9 +847,7 @@
         "description": "This course develops mathematical skills focused on the priority standards of Algebra 1. These topics include algebraic operations and reasoning, one-variable equations and inequalities, linear equations, exponents, factoring, and quadratics. not count toward the 30 credit math graduation",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Math"
-        ]
+        "tags": ["Math"]
     },
     "geometry": {
         "coursename": "Geometry",
@@ -964,9 +864,7 @@
         "description": "Geometry introduces the study of points, lines, planes, polygons, circles, solid figures, and their associated relationships as a mathematical system. Emphasis is placed on the description and use of inductive, deductive, and intuitive reasoning skills. Power of abstract reasoning, spatial visualization and logical reasoning patterns are improved through this course. Focus on comparisons between figures concerning surface areas, volumes, congruency, similarity, transformations, and coordinate geometry is also studied through two and three Diagrams.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Math"
-        ]
+        "tags": ["Math"]
     },
     "geometry-priority-standards": {
         "coursename": "Geometry Priority Standards",
@@ -983,9 +881,7 @@
         "description": "This course develops mathematical skills focused on the priority standards of Geometry. These topics include points, lines, planes, polygons, circles, solid figures, and their associated relationships as a mathematical system. Emphasis is placed on the application of knowledge in algebraic and proof contexts. not count toward the 30 credit math graduation",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Math"
-        ]
+        "tags": ["Math"]
     },
     "algebra-2a": {
         "coursename": "Algebra 2A",
@@ -1002,9 +898,7 @@
         "description": "This course includes a variety of topics, including equations, inequalities, linear functions and relations, systems of equations and inequalities, quadratic functions and relations, polynomials and functions, inverse functions and relations, radical functions and relations, exponential functions and relations, logarithmic functions and relations, and rational functions and relations. This course fulfills minimum requirement for entry into most regent universities.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Math"
-        ]
+        "tags": ["Math"]
     },
     "algebra-2b": {
         "coursename": "Algebra 2B",
@@ -1021,9 +915,7 @@
         "description": "This course covers all topics in Algebra 2, not included in Algebra 2A; conic sections, sequences and series, statistics and probability. There is a heavy emphasis on trigonometric functions, trigonometric identities, and trigonometric equations.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Math"
-        ]
+        "tags": ["Math"]
     },
     "algebra-2": {
         "coursename": "Algebra 2",
@@ -1040,9 +932,7 @@
         "description": "This course includes a variety of topics, including equations, inequalities, linear functions and relations, systems of equations and inequalities, quadratic functions and relations, polynomials and functions, inverse functions and relations, radical functions and relations, exponential functions and relations, logarithmic functions and relations, and rational functions and relations; and also included in this course is an extension of the above topics, as well as the new additional topics. These include factoring, solving equations, logarithmic functions and relations, conics (including rotations and transformations), sequences and series, trigonometry functions, trigonometry identities, and trigonometry equations.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Math"
-        ]
+        "tags": ["Math"]
     },
     "pre-calculus": {
         "coursename": "Pre-Calculus",
@@ -1059,9 +949,7 @@
         "description": "This course is designed for students who want to be better prepared for College Calculus or AP Calculus. This course has been enhanced with additional materials that promote a deeper mathematical understanding of the topics, extend known topics and present new topics that are generally not included in a high school curriculum. These topics will prepare the student for subsequent courses by improving their understanding of algebra and geometry concepts.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Math"
-        ]
+        "tags": ["Math"]
     },
     "advanced-placement-calculus-(ab)": {
         "coursename": "Advanced Placement Calculus (AB)",
@@ -1078,9 +966,7 @@
         "description": "AP Calculus AB is roughly equivalent to a first semester college Calculus I course devoted to topics in differential and integral calculus. The AP course covers topics in these areas, including concepts and skills of limits, derivatives, definite integrals, and the Fundamental l learn how to approach calculus concepts and problems when they are represented graphically, numerically, analytically, and verbally, and how to make connections amongst these representations. You will learn how to use technology to help solve problems, experiment, interpret results, and support conclusions.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Math"
-        ]
+        "tags": ["Math"]
     },
     "advanced-placement-calculus-(bc)-1-&-2": {
         "coursename": "Advanced Placement Calculus (BC) 1 & 2",
@@ -1097,9 +983,7 @@
         "description": "AP Calculus BC is equivalent to a full year of college Calculus. It covers both Calculus I and Calculus II. Students will analyze and solve non-trivial mathematical problems related to calculus. Mathematical modeling and communication will be emphasized. The course surveys the mathematics of change from elementary derivatives through sophisticated integrals to infinite series.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Math"
-        ]
+        "tags": ["Math"]
     },
     "advanced-placement-statistics": {
         "coursename": "Advanced Placement Statistics",
@@ -1116,9 +1000,7 @@
         "description": "This course is a typical introductory college statistics course. It is divided into 4 major themes; exploratory data analysis, probability, statistical inference and planning, and conducting a study. Students will use both graphical and numerical techniques, probability to anticipate the distribution of data to be collected, design ways to collect data while avoiding bias, and make inferences from samples of data.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Math"
-        ]
+        "tags": ["Math"]
     },
     "mathematics-and-society-kcc": {
         "coursename": "Mathematics and Society KCC",
@@ -1135,9 +1017,7 @@
         "description": "This course introduces selected areas of mathematics in familiar settings -solving skills. The course includes a study of mathematical concepts selected from finance, statistics, probability, growth patterns and voting techniques.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Math"
-        ]
+        "tags": ["Math"]
     },
     "earth-science": {
         "coursename": "Earth Science",
@@ -1154,9 +1034,7 @@
         "description": "This course is designed to allow students to develop an understanding of universe, and Earth and human activity.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "general-biology": {
         "coursename": "General Biology",
@@ -1173,9 +1051,7 @@
         "description": "This course is designed as a survey class in life science. The themes investigated are; From Molecules to Organisms; Heredity; Biological Evolution; and Ecosystems.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "chemistry-i": {
         "coursename": "Chemistry I",
@@ -1192,9 +1068,7 @@
         "description": "This course is designed to explore the nature of matter and how it changes. It emphasizes the relationship between chemistry and real-world applications. Chemistry I is intended for students with a strong interest in science, math, or engineering careers.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "organic-chemistry": {
         "coursename": "Organic Chemistry",
@@ -1211,9 +1085,7 @@
         "description": "This quarter-long course is designed to provide a limited exploration of the concepts essential to college-level Organic Chemistry; Bonding, Isomers, Properties, Naming, Functional Groups and Types of Reactions/ Reaction Mechanisms associated with each substitution, elimination & addition, as well as an introduction to the limitless applications of organic chemistry throughout agriculture, life sciences, medicine, and issues related to consumers, the environment and society.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "earth-and-space-science": {
         "coursename": "Earth and Space Science",
@@ -1230,9 +1102,7 @@
         "description": "This course is designed to help students develop an understanding of the big ideas of the Physics Standards and will be applied through the Earth Science Standards. Physics content includes force, motion, momentum, collisions, energy transformations, electromagnetism, waves and light. Earth Science content includes materials of Earth, its internal and exterior processes, geological history, and how role in the universe.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "physics-i": {
         "coursename": "Physics I",
@@ -1249,9 +1119,7 @@
         "description": "This course is designed to examine the fundamental properties and laws of the physical world. These properties include motion, forces, momentum, energy and waves.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "applied-physics-and-chemistry": {
         "coursename": "Applied Physics and Chemistry",
@@ -1268,9 +1136,7 @@
         "description": "This course is designed to allow students to explore the big ideas in Chemistry and Physics. Chemistry concepts include properties of matter, the influence of electrons on behavior of the chemical elements, behavior of chemical reactions, and nuclear reactions. Physics content includes force, motion, momentum, collisions, energy transformations, electromagnetism, waves, and light.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "bioethics": {
         "coursename": "Bioethics",
@@ -1287,9 +1153,7 @@
         "description": "This course examines contemporary ethical issues in genetics, medicine, health, animal use, and the environment, reflecting on the ways in which technology and varying perspectives have resulted in conflict within society.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "geology": {
         "coursename": "Geology",
@@ -1306,9 +1170,7 @@
         "description": "This course is designed to allow students to receive an intense, in-depth look into the core subjects of geology including physical, structural and environmental geology, crystallography, mineralogy, stratigraphy, and geomorphology.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "astronomy": {
         "coursename": "Astronomy",
@@ -1325,9 +1187,7 @@
         "description": "This course is designed to allow students to receive an intense, in-depth look at astronomy topics including astronomical history, stellar measuring, stellar evolution, forces (gravitational, inertial, nuclear, magnetic, etc.) and the universe (theories, black matter, quasars, etc.).",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "meteorology": {
         "coursename": "Meteorology",
@@ -1344,9 +1204,7 @@
         "description": "This course is designed to allow students to receive an intense, in-depth look at topics relating to the atmosphere. Students will focus on forecasting weather, using severe weather as its guideline.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "anatomy-&-physiology": {
         "coursename": "Anatomy & Physiology",
@@ -1363,9 +1221,7 @@
         "description": "This course is designed to allow students to study the fundamental concepts of human structure and function as it pertains to their bodies. It is designed to lead students into a basic career in the health field and prepare students for post-secondary education. One critical instructional element of anatomy to help foster an understanding of structures and functions is the exploration and dissection of animal tissues, organs, and bodies.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "advanced-placement-biology-1-&-2": {
         "coursename": "Advanced Placement Biology 1 & 2",
@@ -1382,9 +1238,7 @@
         "description": "This course is designed as an in-depth study of the field of biology. Areas of emphasis include energy pathways; the cell; genetics and genetic engineering; and organisms and their environments.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "advanced-placement-chemistry-1-&-2": {
         "coursename": "Advanced Placement Chemistry 1 & 2",
@@ -1401,9 +1255,7 @@
         "description": "This course is designed to cover the basics of chemistry at the college level. Areas of emphasis include atomic structure, molecular bonding, thermochemistry, kinetics, and chemical equilibria.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "advanced-placement-physics-1": {
         "coursename": "Advanced Placement Physics 1",
@@ -1420,9 +1272,7 @@
         "description": "This course covers College Physics I. Students taking this class should have a strong interest in the practical applications of mathematics to real-life scenarios. Areas of emphasis include; experimental design, kinematics, ectricity, and waves.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "advanced-placement-physics-2": {
         "coursename": "Advanced Placement Physics 2",
@@ -1439,9 +1289,7 @@
         "description": "This course covers College Physics II. Students taking this course should have a strong interest in the practical applications of mathematics to real-life scenarios. Areas of emphasis include; experimental design, thermodynamics, fluid-mechanics, optics, electric circuits, magnetism, and modern physics.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "environmental-sustainability": {
         "coursename": "Environmental Sustainability",
@@ -1458,9 +1306,7 @@
         "description": "Students will investigate and design solutions in response to real-world challenges related to clean and abundant drinking water, food supply issues, and renewable energy. Applying their knowledge through hands-on design potential solutions to these true-to-life challenges.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "advanced-placement-environmental-science-1-&-2": {
         "coursename": "Advanced Placement Environmental Science 1 & 2",
@@ -1477,9 +1323,7 @@
         "description": "The goal of AP Environmental Science is to provide students with the scientific principles, concepts, and methodologies required to understand the interrelationships of the natural world, to identify and analyze environmental problems both natural and human-made, to evaluate the relative risks associated with these problems, and to examine alternative solutions for resolving or preventing them. Elective Science credit can also be found in the Agricultural Science and PLTW sections.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "us-history-9": {
         "coursename": "US History 9",
@@ -1496,9 +1340,7 @@
         "description": "US History 9 examines American history from the Gilded Age to the present, focusing on the people, ideas and events that have helped create the nation and world we live in today. Students are required to examine why events happened as they did and explain how our past is related to our present. A variety of learning activities, requiring both group and individual effort, allow students to become actively involved learners.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "History"
-        ]
+        "tags": ["History"]
     },
     "advanced-us-history-9": {
         "coursename": "Advanced US History 9",
@@ -1515,9 +1357,7 @@
         "description": "This course explores the Gilded Age to present focusing on people, ideas, and events that have helped to create the nation and world we live in today. Strong emphasis is placed on developing skills in writing, interpretation and analysis of primary historical documents. Students will examine events and ideas from a variety of perspectives as they learn how to take a position on an issue, develop a thesis statement and use evidence to defend their position.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "History"
-        ]
+        "tags": ["History"]
     },
     "world-history": {
         "coursename": "World History",
@@ -1534,9 +1374,7 @@
         "description": "This course investigates the foundations of our modern world. This will be done by researching various civilizations from ancient civilizations through modern times. Students will political, economic and social systems.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "History"
-        ]
+        "tags": ["History"]
     },
     "economics": {
         "coursename": "Economics",
@@ -1553,9 +1391,7 @@
         "description": "This course will focus on economic concepts (scarcity, choice, incentives); supply, demand, and markets; microeconomics (production, productivity, competitive markets); and macroeconomics (the economy in the aggregate, inflation, unemployment).",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "History"
-        ]
+        "tags": ["History"]
     },
     "law-and-the-constitution": {
         "coursename": "Law and the Constitution",
@@ -1572,9 +1408,7 @@
         "description": "This course focuses on the origins of legal rights in the United States. With a particular focus on Constitutional structure and the Bill of Rights, students will examine the development, structure and operation of the American legal system including citizen rights and responsibilities, the role of the US Supreme Court and the Iowa court system, the Iowa Code and the functions of the courts by experiencing a mock trial.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "History"
-        ]
+        "tags": ["History"]
     },
     "sociology": {
         "coursename": "Sociology",
@@ -1591,9 +1425,7 @@
         "description": "This course is a study of human group behavior and social problems. The course will explore the following concepts; culture, socialization, deviance and social control, social stratification, minority groups, marriage and family.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "History"
-        ]
+        "tags": ["History"]
     },
     "introductory-psychology": {
         "coursename": "Introductory Psychology",
@@ -1610,9 +1442,7 @@
         "description": "This course is designed to help students understand human behavior. Students will learn about psychology as a science, career options, methods of learning, human development, personality development and psychological illness.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "History"
-        ]
+        "tags": ["History"]
     },
     "government": {
         "coursename": "Government",
@@ -1629,9 +1459,7 @@
         "description": "Course highlights will include a study of the three branches of government, political voting behavior, political party membership, interest groups and elected officials. Students will study the underlying principles upon which the US government is base; limited government, rules of law, federalism and protection of individual rights.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "History"
-        ]
+        "tags": ["History"]
     },
     "advanced-placement-american-government": {
         "coursename": "Advanced Placement American Government",
@@ -1648,9 +1476,7 @@
         "description": "Several topics covered in this course include; Constitutional underpinnings, political beliefs & behaviors, political parties, interest groups & mass media, institutions of national government, public policy & civil rights and civil liberties.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "History"
-        ]
+        "tags": ["History"]
     },
     "advanced-placement-comparative-government": {
         "coursename": "Advanced Placement Comparative Government",
@@ -1667,9 +1493,7 @@
         "description": "AP Comparative Government is a semester-long (block) course comparing governmental systems of Great Britain, Russia, China, Mexico, Nigeria and Iran. It is intended to follow US Government in greater depth and introduce students to more global international relations concepts and a broader, current understanding of the world we live in.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "History"
-        ]
+        "tags": ["History"]
     },
     "advanced-placement-us-history-1-&-2": {
         "coursename": "Advanced Placement US History 1 & 2",
@@ -1686,9 +1510,7 @@
         "description": "Students will participate in reading primary and secondary history materials, lectures, research projects, and group and individual presentations. College level work is expected in this survey course which covers the full range of US history from the early European explorations to the present.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "History"
-        ]
+        "tags": ["History"]
     },
     "advanced-placement-psychology-1-&-2": {
         "coursename": "Advanced Placement Psychology 1 & 2",
@@ -1705,9 +1527,7 @@
         "description": "Areas studied; history and approaches, states of consciousness, biological bases of behavior, cognition, testing and individual differences, sensation and perception, motivation and emotion, abnormal psychology and treatment, and social psychology. College level work is expected, as this is a college level course.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "History"
-        ]
+        "tags": ["History"]
     },
     "advanced-placement-world-history-1-&-2": {
         "coursename": "Advanced Placement World History 1 & 2",
@@ -1724,9 +1544,7 @@
         "description": "This course is a broad survey of the major periods of human history from a global comparative perspective. Students will study the events and trends that have shaped the world into what it is today, while refining their study, writing and critical thinking skills.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "History"
-        ]
+        "tags": ["History"]
     },
     "design-art-basics": {
         "coursename": "Design Art Basics",
@@ -1743,9 +1561,7 @@
         "description": "This is a design course that teaches basic visual literacy. By learning about the elements and principles of art, students will learn what visual images communicate. Students will gain a better understanding of how and what they are communicating in their art work through direct application of the elements and principals. Students will develop technical skills through the use of a variety of mediums including computer-generated images.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Art"
-        ]
+        "tags": ["Art"]
     },
     "beginning-drawing": {
         "coursename": "Beginning Drawing",
@@ -1762,9 +1578,7 @@
         "description": "Students will draw from both life and photographic images. Emphasis will be placed on tone, line, value, and proportion. Students will also learn linear perspective drawing. The works of other artists, past and present, will be studied.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Art"
-        ]
+        "tags": ["Art"]
     },
     "beginning-ceramics": {
         "coursename": "Beginning Ceramics",
@@ -1781,9 +1595,7 @@
         "description": "Like getting dirty? Working with your hands? Then Beginning Ceramics is right for you. Beginning Ceramics allows students to dig into clay and learn the basic hand building methods; pinch, coil, slab and sculpting. Students create simple forms. Students will learn the scientific principle of clay and glazes. Class will be spent learning these skills and applying these skills to specific projects over the course of the quarter. Creativity is a must as well as using fundamentally sound techniques.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Art"
-        ]
+        "tags": ["Art"]
     },
     "beginning-painting": {
         "coursename": "Beginning Painting",
@@ -1800,9 +1612,7 @@
         "description": "Students will be introduced to a variety of water-based paints; water color, tempera and acrylic. Students will explore the history, vocabulary, and process used in this type of painting. Students will learn how art is used for personal expression and as social statements.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "3-d-mixed-media": {
         "coursename": "3-D Mixed Media",
@@ -1819,9 +1629,7 @@
         "description": "Students will learn a variety of techniques related to 3-D Art, such as, sculpture in the round, relief, assemblage, mobiles, and installations. Students will learn to create art by reflecting on their own personal experiences and by researching other cultures.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Art"
-        ]
+        "tags": ["Art"]
     },
     "expressive-drawing": {
         "coursename": "Expressive Drawing",
@@ -1838,9 +1646,7 @@
         "description": "Students will continue to build on the skills learned in Beginning Drawing. Emphasis will be placed on composition and mood of each drawing. Human figure studies and experimentation of a variety of media will be stressed throughout the quarter. The works of the artists, past and present, will be studied.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Art"
-        ]
+        "tags": ["Art"]
     },
     "construction-in-clay": {
         "coursename": "Construction in Clay",
@@ -1857,9 +1663,7 @@
         "description": "Students will review and expand on techniques learned in Beginning Ceramics. Emphasis in this class will be placed on alternative firings and construction methods. Students will investigate new ways of hand-building, firing, artists and styles. Skills will continue to be developed on the wheel to create bowls and cylinders. Students will use clay as an expressive medium to communicate ideas, feelings, thoughts, emotions and moods in their work.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Art"
-        ]
+        "tags": ["Art"]
     },
     "2-d-mixed-media": {
         "coursename": "2-D Mixed Media",
@@ -1876,9 +1680,7 @@
         "description": "Students will continue to develop the skills learned in Art Basics and experiment new techniques using a wide variety of materials, including oil paint, collage, and Xerox transfer. Students will learn how to communicate their ideas in creative ways by combining paint with other materials to create their art work.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Art"
-        ]
+        "tags": ["Art"]
     },
     "drawing-in-style": {
         "coursename": "Drawing In Style",
@@ -1895,9 +1697,7 @@
         "description": "This course is for students who desire to create in-depth drawings in a variety of media including ink, charcoal, pencil, chalk, and computer. Students will begin to develop a personal style and applying their imagination to create unique and original works of art. The works of other artist, past and present, will be studied.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Art"
-        ]
+        "tags": ["Art"]
     },
     "exploration-in-ceramic-technique": {
         "coursename": "Exploration in Ceramic Technique",
@@ -1914,9 +1714,7 @@
         "description": "This class places an emphasis on the wheel and requires the production of wheel throwing portfolio. Students will also select different hand-building techniques to communicate visual ideas in clay. This class allows for deeper exploration of ceramic techniques, glazing and firings. Students will experiment using various new ways of working with clay.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Art"
-        ]
+        "tags": ["Art"]
     },
     "digital-photography": {
         "coursename": "Digital Photography",
@@ -1933,9 +1731,7 @@
         "description": "In this class students will become familiar with the fundamentals of digital photography. Topics will include; basic workings of a digital camera, compositions for photography, how lighting affects photographs and use of Adobe Photoshop editing programs. Students will participate in various photo shoots including; portrait, landscape, still life and various others. Critiques and regular class discussions are the norm for this class. Digital photography will change your way of seeing; taking pictures will become more than just capturing a moment in time, but creating visual communication through the use of a camera.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Art"
-        ]
+        "tags": ["Art"]
     },
     "graphics-one": {
         "coursename": "Graphics One",
@@ -1952,9 +1748,7 @@
         "description": "Graphics One will explore several areas of the current graphics industry. The class will provide rigorous, real world situations where students utilize professional programs from the Adobe Creative Suite along with their knowledge of the fine arts to create high end, visually stunning art and presentations. Projects will stem from the graphically visual world we live in today and pull from such topics as Brand Identity, Marketing, and Web Presence. We will also discuss the benefits of digital portfolios as well as the importance of the creative mind itechnology driven society.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Art"
-        ]
+        "tags": ["Art"]
     },
     "graphics-two": {
         "coursename": "Graphics Two",
@@ -1971,9 +1765,7 @@
         "description": "Graphics Two continues to push the boundaries of design with in-depth rigorous approaches utilizing the skills learned in Graphics One. Projects will continue to challenge and polish a studegrid, composition, & layout. Students will have the opportunity to further develop their skills using the Adobe Creative Suite, as well as having access to all coursework will benefit students interested in developing a design portfolio.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Art"
-        ]
+        "tags": ["Art"]
     },
     "advanced-art": {
         "coursename": "Advanced Art",
@@ -1990,9 +1782,7 @@
         "description": "This class will emphasize preparing a portfolio for scholarship, college admission, and learning about art-related careers. Students will learn attitudes that promote independent idea development and problem-solving. They will explore selected ideas and media in depth in their development as beginning artist.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Art"
-        ]
+        "tags": ["Art"]
     },
     "ap-art-history-1-&-2": {
         "coursename": "AP Art History 1 & 2",
@@ -2009,9 +1799,7 @@
         "description": "This course will engage students at the same level as an introductory college art history survey. Students will develop an understanding and knowledge of diverse historical, religious, political, and sociological contexts of architecture, sculpture and painting. The students will examine and critically analyze works from the past and present from all corners of the World. The mean to be Huma",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Art"
-        ]
+        "tags": ["Art"]
     },
     "concert-band": {
         "coursename": "Concert Band",
@@ -2028,9 +1816,7 @@
         "description": "This course is a concert band which rehearses daily. The group learns and performs concert band music. Emphasis is on the preparation and performance of high school level quality music literature. Students will also participate in a brass, woodwind, or percussion ensemble during the third quarter. In addition, members will learn fundamentals of marching. Each member receives a lesson each six day cycle.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "symphony-band": {
         "coursename": "Symphony Band",
@@ -2047,9 +1833,7 @@
         "description": "This course is a concert band which rehearses daily. The group learns and performs concert band music. Emphasis is on the preparation and performance of high school level quality music literature. Students will also participate in a brass, woodwind, or percussion ensemble during the third quarter. Each member in grades 9-10 receives a lesson each six day cycle.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "symphonic-winds": {
         "coursename": "Symphonic Winds",
@@ -2066,9 +1850,7 @@
         "description": "This course is a concert band which rehearses daily. The group learns and performs concert band music. Emphasis is on the preparation and performance of high school level quality music literature. Students will also participate in a brass, woodwind, or percussion ensemble during the third quarter. Each member in grade 10 receives a lesson each six day cycle.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "wind-symphony": {
         "coursename": "Wind Symphony",
@@ -2085,9 +1867,7 @@
         "description": "This course is a concert band which rehearses daily. The group learns and performs concert band music. Emphasis is on the preparation and performance of advanced high school and college level music. Students will also participate in a brass, woodwind, or percussion ensemble during the third quarter. Each member in gradelevels 10 receives a lesson each six day cycle. Private lessons are recommended.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "wind-ensemble": {
         "coursename": "Wind Ensemble",
@@ -2104,9 +1884,7 @@
         "description": "This course is a concert which rehearses daily. The group learns and performs concert band music. Emphasis is on the preparation and performance of college/university level band music. Students will also participate in a brass, woodwind, or percussion ensemble during the third quarter. Each member in grade 10 receives a lesson each six day cycle. Private lessons are recommended.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "fortis": {
         "coursename": "Fortis",
@@ -2123,9 +1901,7 @@
         "description": "The choir of Tenor and Bass voices rehearses and performs four concerts locally each school year. Fundamentals of good singing, musical literacy, and group dynamics are stressed. Each student will receive a private lesson every week of the school year starting the 2nd quarter.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "lux": {
         "coursename": "Lux",
@@ -2142,9 +1918,7 @@
         "description": "The choir of only Soprano and Alto voices rehearses and performs four concerts locally each school year. Fundamentals of good singing, musical literacy, and group dynamics are stressed. Each student will receive a private lesson every week of the school year starting 2nd quarter.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "chamber-singers": {
         "coursename": "Chamber Singers",
@@ -2161,9 +1935,7 @@
         "description": "Emphasis will be on the preparation of choral works for smaller groups, i.e. madrigals, early music, and contemporary music. Private lessons are recommended.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "linn-mar-singers": {
         "coursename": "Linn-Mar Singers",
@@ -2180,9 +1952,7 @@
         "description": "Emphasis will be on preparation of advanced quality choral music by established and emerging composers for this genre. Soloist voice as well as strong choral singers will be the foundation of the group. Private lessons are recommended.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "concert-chorale": {
         "coursename": "Concert Chorale",
@@ -2199,9 +1969,7 @@
         "description": "Emphasis will be on the preparation of choral works for larger groups, i.e. music for double choir, major choral works with orchestra, music for operatic choruses, as well as standard acapella literature.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "bella-voce": {
         "coursename": "Bella Voce",
@@ -2218,9 +1986,7 @@
         "description": "Emphasis will be on preparation of advanced quality choral music by established and emerging composers for this genre. Soloist voice as well as strong choral singers will be the foundation of the group. Students will receive a weekly lesson in each nine week period. Private lessons are recommended.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "cantemus": {
         "coursename": "Cantemus",
@@ -2237,9 +2003,7 @@
         "description": "Emphasis will be on preparation of advanced quality choral music by established and emerging composers for this genre. Soloist voice as well as strong choral singers will be the foundation of the group. Private lessons are recommended.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "concert-orchestra-(red)": {
         "coursename": "Concert Orchestra (Red)",
@@ -2256,9 +2020,7 @@
         "description": "Emphasis is on the preparation and performance of high school level quality music literature for the string instruments. Lessons are offered during a six-day cycle and scheduled based on schedule availability. Private lessons are recommended.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "philharmonic-orchestra": {
         "coursename": "Philharmonic Orchestra",
@@ -2275,9 +2037,7 @@
         "description": "Emphasis is on the preparation and performance of high school level quality music with some literature for string instruments. Lessons are offered during a six-day cycle and scheduled based on schedule availability. Private lessons are recommended.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "concert-orchestra-(black)": {
         "coursename": "Concert Orchestra (Black)",
@@ -2294,9 +2054,7 @@
         "description": "Emphasis is on the preparation and performance of high school level quality music literature for the string instruments. Lessons are offered during a six-day cycle and scheduled based on schedule availability. Private lessons are recommended.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "symphony-strings": {
         "coursename": "Symphony Strings",
@@ -2313,9 +2071,7 @@
         "description": "Emphasis is on the preparation and performance of college/university/professional level quality music literature for string instruments. Students also participate along with the wind, brass, and percussion to form the Full-Symphony Orchestra. Lessons are offered during a six-day cycle and are scheduled based on schedule availability. Private lessons are recommended.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "marching-band": {
         "coursename": "Marching Band",
@@ -2332,9 +2088,7 @@
         "description": "Meets daily during 1st quarter and is recommended for all grade 10-12 band members. The color guard is open to both band and non-band members with dance experience, or students who have the desire to perform. Auditions for the color guard and incoming 9th graders will be during the 2nd semester of the previous school year. The Marching Lions perform at the Linn-Mar Homecoming parade, all home football games, 4-5 contests, the Metro Marching Band Classic, and the Band Extravaganza.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "advanced-placement-music-theory": {
         "coursename": "Advanced Placement Music Theory",
@@ -2351,9 +2105,7 @@
         "description": "This college-level class is progressive with each unit building on the previous. Major areas of study include the basic materials of music, time classification, notation, intervals, scales, time signatures, structure of tonality, triads, phrase structure and harmonization, seventh chords, musical style, exploration of arranging, composing, sight-singing, melodic and harmonic dictation. MUSIC FUNDAMENTALS HIGHLY RECOMMENDED (See p. 122)",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "health-i": {
         "coursename": "Health I",
@@ -2370,9 +2122,7 @@
         "description": "This course is designed to lead students to healthy lifestyle choices through use of decision making processes. Students are encouraged to assess their attitudes and behavior patterns and to understand the impact their lifestyle choices have on their communities and on their own well-being. Topics covered include; fitness and wellness; nutrition; eating disorders; sexual education; substance abuse; STDs; HIV/AIDS; cancer; infectious and non-infectious diseases.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Health/PE"
-        ]
+        "tags": ["Health/PE"]
     },
     "health-ii": {
         "coursename": "Health II",
@@ -2389,9 +2139,7 @@
         "description": "This is an in-depth course for students interested in the health-related field. This broad spectrum includes but is not limited to; nutrition, sports medicine, sports management, exercise science, sports psychology, and mental/emotional health. Fitness/Health PR=prerequisites Requirement",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Health/PE"
-        ]
+        "tags": ["Health/PE"]
     },
     "super-sport": {
         "coursename": "Super Sport",
@@ -2408,9 +2156,7 @@
         "description": "This adaptive physical education course focuses on individual and team activities to promote an active and healthy lifestyle. This course will adapt the activities to meet the physical needs of all students.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "fundamentals-of-lifetime-fitness": {
         "coursename": "Fundamentals of Lifetime Fitness",
@@ -2427,9 +2173,7 @@
         "description": "The class emphasis includes; enhancing personal fitness through Activity Labs and Group Games designed to improve Aerobic Capacity, Core Endurance, Muscular Fitness and overall Flexibility. The student will demonstrate a beginning ability to use Goal-Setting Skills to aid in enhancing personal fitness. The student will be encouraged to achieve an improved level of fitness while demonstrating beginning knowledge of fitness concepts and principles. The student will complete and reflect on district-approved fitness assessments for completion of the class.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Health/PE"
-        ],
+        "tags": ["Health/PE"],
         "grading": "Credit/No Credit"
     },
     "lifetime-fitness---aqua-fit": {
@@ -2447,9 +2191,7 @@
         "description": "This section explores the unique buoyancy, resistance and movement of water to improve overall fitness. The student will design and implement an Individualized Aquatic Fitness Plan. The class emphasis includes; enhancing fitness through Activity Labs designed to improve Aerobic Capacity, Core Endurance, Muscular Fitness and overall Flexibility. The student will demonstrate the ability to use Goal-Setting Skills to aid in enhancing personal fitness and complete a Life Skills Unit. The student will be challenged to achieve an improved level of fitness while demonstrating knowledge of fitness concepts and principles. The student will complete and reflect on district-approved fitness assessments for completion of the class. CPR training is included in this course.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Health/PE"
-        ],
+        "tags": ["Health/PE"],
         "grading": "Credit/No credit"
     },
     "lifetime-fitness---aqua-fit-ii": {
@@ -2467,9 +2209,7 @@
         "description": "This section builds on concepts of fitness through aquatic movement and exercise. The student will design and implement an Individualized Aquatic Fitness Plan. The student will demonstrate the ability to use Goal-Setting Skills to aid in enhancing personal fitness. The student will be challenged to achieve an improved level of fitness while demonstrating knowledge of fitness concepts and principles. CPR training is included in this course.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Health/PE"
-        ],
+        "tags": ["Health/PE"],
         "grading": "Credit/No credit"
     },
     "lifetime-fitness---flex-and-fit-i": {
@@ -2487,9 +2227,7 @@
         "description": "This section is designed for the developing fitness Student and will provide opportunities for the Student to improve their personal fitness and concept knowledge. This section will utilize Group Activity Labs to support functional fitness improvement. The Student will explore ways to design, and adjust a fitness plan tailored to meet their goals. The Student will demonstrate the ability to use Goal-Setting Skills to aid in enhancing personal fitness, and complete a Life Skills Unit. The Student will be encouraged to achieve an improved level of fitness while demonstrating knowledge of fitness concepts and principles. The Student will complete and reflect on district-approved fitness assessments for completion of the class. CPR training is included in this course.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Health/PE"
-        ],
+        "tags": ["Health/PE"],
         "grading": "Credit/No credit"
     },
     "lifetime-fitness---flex-and-fit-ii": {
@@ -2507,9 +2245,7 @@
         "description": "This section is designed to provide advanced opportunities for the Student to improve their personal fitness and concept knowledge. This section will utilize Group Activity Labs to support the functional fitness improvement. The Student will create and utilize a Personal Fitness Portfolio to track and reflect on Activity Lab results. The Student will demonstrate the ability to use Goal-Setting Skills to aid in enhancing personal fitness, and complete a Life Skills Unit. The Student will be challenged to achieve an improved level of fitness while demonstrating advanced knowledge of fitness concepts and principles. The Student will complete and reflect on district-approved fitness assessments for completion of the class. CPR training is included in this course.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Health/PE"
-        ],
+        "tags": ["Health/PE"],
         "grading": "Credit/No credit"
     },
     "lifetime-fitness---crossfit": {
@@ -2527,9 +2263,7 @@
         "description": "This section will utilize Group Activity Labs to support fitness improvement. The Student will explore ways to design and adjust a CrossFit Fitness Plan tailored to meet their goals. The class emphasis includes; enhancing personal fitness through Activity Labs designed to improve Aerobic Capacity, Core Endurance, Muscular Fitness and overall Flexibility. The Student will demonstrate the ability to use Goal-Setting Skills to aid in enhancing personal fitness and complete a Life Skills Unit. The Student will be challenged to achieve an improved level of fitness while demonstrating an advanced knowledge of fitness concepts and principles. The Student will complete and reflect on district-approved fitness assessments for completion of the class. CPR training is included in this course.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Health/PE"
-        ],
+        "tags": ["Health/PE"],
         "grading": "Credit/No credit"
     },
     "lifetime-fitness---total-body-i": {
@@ -2547,9 +2281,7 @@
         "description": "This section will focus on Introductory Strength Training concepts, skills and Activity Labs. The Student will explore ways to design a Total Body Strength Program. The Student will demonstrate the ability to use Goal-Setting Skills to aid in enhancing personal fitness, and complete a Life Skills Unit. The Student will be encouraged to achieve an improved level of Muscular Fitness while demonstrating a beginning knowledge of concepts and principles. The Student will complete and reflect on district-approved fitness assessments for completion of the class. CPR training is included in this course.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Health/PE"
-        ],
+        "tags": ["Health/PE"],
         "grading": "Credit/No credit"
     },
     "lifetime-fitness---total-body-ii": {
@@ -2567,9 +2299,7 @@
         "description": "This section is designed to allow the advanced Student to apply learned Strength Training Principles and Techniques. The Student will be engaged in demonstrations/ discussions and evaluations of lift performances Muscular Fitness and further knowledge and understanding of Strength Training Theory and Practice. The Student will demonstrate the ability to use Goal-Setting Skills to aid in enhancing personal fitness, and complete a Life Skills Unit. The Student will be challenged to achieve an improved level of Muscular Fitness while demonstrating advanced knowledge of fitness concepts and principles. The Student will complete and reflect on district-approved fitness assessments for completion of the class. CPR training is included in this course.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Health/PE"
-        ],
+        "tags": ["Health/PE"],
         "grading": "Credit/No credit"
     },
     "health-careers": {
@@ -2587,9 +2317,7 @@
         "description": "The Health Sciences Academy includes hands-on patient care and meets for 85 minutes per day for the entire school year. Students will learn the basic expectations of a heath care professional through a combination of coursework, job shadows and assisting with patient care. When completed, students will be eligible to take the Licensed Practical Nurse certification test.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Health/PE"
-        ]
+        "tags": ["Health/PE"]
     },
     "pltw-principles-of-biomedical-science": {
         "coursename": "PLTW Principles of Biomedical Science",
@@ -2606,9 +2334,7 @@
         "description": "From design and data analysis to outbreaks, clinical empathy, health promotion, and more, students explore the vast range of careers in biomedical sciences. They develop not just technical skills, but also in-demand, transportable skills that they need to thrive in life and career. In this course, students explore concepts of biology and medicine as they take on roles of different medical professionals to solve real-world problems. Over the course of the year, students are challenged in various scenarios including investigating a crime scene to solve a mystery, diagnosing and proposing treatment to patients in a family medical practice, to tracking down and containing a medical outbreak at a local hospital, stabilizing a patient during an emergency, and collaborating with others to design solutions to local and global medical problems.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Health/PE"
-        ]
+        "tags": ["Health/PE"]
     },
     "introduction-to-agriculture,-food,-and-natural-resources": {
         "coursename": "Introduction to Agriculture, Food, and Natural Resources",
@@ -2625,9 +2351,7 @@
         "description": "Introduction to Agriculture, Food, and Natural Resources (AFNR) introduces students to the range of agricultural opportunities and the pathways of study they may pursue. Student experiences involve the study of natural resources, plants and animals, food science and agricultural mechanics.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Agriculture"
-        ]
+        "tags": ["Agriculture"]
     },
     "principles-of-agricultural-science--animal": {
         "coursename": "Principles of Agricultural Science- Animal",
@@ -2644,9 +2368,7 @@
         "description": "Principles of Agricultural Science-Animal is a course engaging students in hands-on laboratories and activities to explore the world of animal agriculture. Student experiences involve the study of animal anatomy, physiology, behavior, nutrition, reproduction, health, selection and marketing.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Agriculture"
-        ]
+        "tags": ["Agriculture"]
     },
     "aquaculture-science": {
         "coursename": "Aquaculture Science",
@@ -2663,9 +2385,7 @@
         "description": "Aquaculture Science introduces students to the world of animal and plant aquaculture. Students will acquire the skills needed to produce and harvest finfish, freshwater prawn and food plants while",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Agriculture"
-        ]
+        "tags": ["Agriculture"]
     },
     "principles-of-agricultural-science--plant": {
         "coursename": "Principles of Agricultural Science- Plant",
@@ -2682,9 +2402,7 @@
         "description": "Principles of Agricultural Science-Plant is a course teaching students the form and function of plant systems. Student experiences include the study of plant anatomy and physiology, classification, and the fundamentals of production and harvesting.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Agriculture"
-        ]
+        "tags": ["Agriculture"]
     },
     "natural-resources-and-ecology": {
         "coursename": "Natural Resources and Ecology",
@@ -2701,9 +2419,7 @@
         "description": "Natural Resources and Ecology is a course that provides students with a variety of experiences in the field of natural resources. Students explore hands-on projects and activities while studying topics such as land use, water quality, stewardship, and environmental agencies.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Agriculture"
-        ]
+        "tags": ["Agriculture"]
     },
     "animal-and-plant-biotechnology": {
         "coursename": "Animal and Plant Biotechnology",
@@ -2720,9 +2436,7 @@
         "description": "Animal and Plant Biotechnology, a specialization course, provides students with experiences in industry appropriate applications of biotechnology related to plant and animal agriculture. Students are expected to become proficient at biotechnological skills involving micropipetting, bacterial cultures and transformations, electrophoresis, and polymerase chain reaction.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Agriculture"
-        ]
+        "tags": ["Agriculture"]
     },
     "food-science-and-safety": {
         "coursename": "Food Science and Safety",
@@ -2739,9 +2453,7 @@
         "description": "Food Science and Safety is a course where students complete hands-on activities, projects, and problems that simulate actual concepts and situations found in the food science and safety industry, allowing students to build content knowledge and technical skills.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Agriculture"
-        ]
+        "tags": ["Agriculture"]
     },
     "environmental-science-issues": {
         "coursename": "Environmental Science Issues",
@@ -2758,9 +2470,7 @@
         "description": "Environmental Science Issues is a course where students to research, analyze, and propose sustainable solutions to environmental issues. Students will investigate areas of environmental science including ecosystem management, sustainable agriculture, energy choices, and pollution.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Agriculture"
-        ]
+        "tags": ["Agriculture"]
     },
     "agricultural-power-and-technolgy": {
         "coursename": "Agricultural Power and Technolgy",
@@ -2777,9 +2487,7 @@
         "description": "Agricultural Power and Technology is a course to expose students to mechanics, power, technology, and career options in the world of agriculture. Student experiences involve the study of sustainable energy, geographic information & global position systems, drone technology, machines, and structures as it relates to multiple areas of agriculture, including animals, plants, food science, biotechnology, and natural resource management.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Agriculture"
-        ]
+        "tags": ["Agriculture"]
     },
     "agricultural-business-foundations": {
         "coursename": "Agricultural Business Foundations",
@@ -2796,9 +2504,7 @@
         "description": "Agricultural Business Foundations introduces students to business management in agriculture. Student experiences involve the study of starting a business, financial documents required of a business, risk management, and writing a business plan.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Agriculture"
-        ]
+        "tags": ["Agriculture"]
     },
     "agricultural-research-and-development": {
         "coursename": "Agricultural Research and Development",
@@ -2815,9 +2521,7 @@
         "description": "Agricultural Research and Development is the experiences in agriculture, based on the pathway of study they pursued. Woven throughout the course are projects and problems based in practical applications and designed to develop and improve employability skills of students. Students will further enhance research, critical thinking, and teamwork skills as they expand on content knowledge from previous CASE courses. Students completing coursework for all four courses within a specific CASE Pathway are eligible to receive CASE program certification.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Agriculture"
-        ]
+        "tags": ["Agriculture"]
     },
     "afnr-workplace-experience": {
         "coursename": "AFNR Workplace Experience",
@@ -2834,9 +2538,7 @@
         "description": "This Agriculture, Food, and Natural ResourcesWorkplace Experience course provides work experience in fields related to agriculture, food, and natural resources. Goals are set cooperatively by the student, teacher, and worksite supervisor.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Agriculture"
-        ]
+        "tags": ["Agriculture"]
     },
     "personal-finance": {
         "coursename": "Personal Finance",
@@ -2853,9 +2555,7 @@
         "description": "This course exposes students to areas of personal finance that they will likely encounter. The curriculum covers, among other topics; consumer awareness, money management, opening bank accounts, managing a checkbook, managing credit, applying for a job and basic information about saving and investing. Information will be presented through projects, activities, guest speakers and multimedia presentations.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Business"
-        ]
+        "tags": ["Business"]
     },
     "accounting": {
         "coursename": "Accounting",
@@ -2872,9 +2572,7 @@
         "description": "Students will learn the fundamentals of double-entry accounting for personal and small business use. They will also learn about payroll, income tax and banking activities. Computers and various business forms will be used to help students develop a beginning understanding of the business world.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Business"
-        ]
+        "tags": ["Business"]
     },
     "introduction-to-business": {
         "coursename": "Introduction to Business",
@@ -2891,9 +2589,7 @@
         "description": "This course will give students an overview of the study of business including; economic decisions, systems, and roles, business structures, economic measurements and leadership, social responsibility and business ethics.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Business"
-        ]
+        "tags": ["Business"]
     },
     "marketing": {
         "coursename": "Marketing",
@@ -2910,9 +2606,7 @@
         "description": "Marketing is an all-focuses on areas of study including, but not limited to; market planning, selling, promotion, distribution, pricing, marketing research and brand development.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Business"
-        ]
+        "tags": ["Business"]
     },
     "business-consumer-law": {
         "coursename": "Business Consumer Law",
@@ -2929,9 +2623,7 @@
         "description": "This course will develop a general understanding of legal concepts for personal and business use. As students become familiar with these concepts, they will better understand the importance of the law in general, become familiar with relevant specific laws, and explore the applications of law both in business and in personal transactions. This will be achieved through field trips and/or guest speakers and analyzing real cases.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Business"
-        ]
+        "tags": ["Business"]
     },
     "moc-internship-career-immersion": {
         "coursename": "MOC Internship Career Immersion",
@@ -2948,9 +2640,7 @@
         "description": "MOC will provide substantial, meaningful career-related work experience and engagement with structured evaluation/reflection with area business and industry. Student interns work a minimum of 15 hours per week. Work-based learning prepares students for college and career readiness by helping them make informed decisions about their life goals and learning specific career related skills.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Business"
-        ]
+        "tags": ["Business"]
     },
     "advanced-accounting": {
         "coursename": "Advanced Accounting",
@@ -2967,9 +2657,7 @@
         "description": "This course uses an integrated approach to teach accounting, by learning how businesses plan for and evaluate their operating, financing and investing decisions and then how accounting systems gather and provide data to decision makers. The course covers all the objectives of a traditional college level financial accounting course, plus those from a managerial accounting course. Topics include; accounting information systems, time value of money, and accounting for merchandising firms, sales and receivables, fixed assets, debt, equity, statement of cash flows, financial ratios, cost-volume profit analysis and variance analysis.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Business"
-        ]
+        "tags": ["Business"]
     },
     "moc-related-career-immersion": {
         "coursename": "MOC Related Career Immersion",
@@ -2986,9 +2674,7 @@
         "description": "Student will learn career exploration, preparation and application. Life and workplace skills; teamwork, professional development, customer relations, problem-solving, diversity, time management, communication and information management. Consumer awareness, entrepreneurship, management, marketing, operations and labor market information. Financial Analysis; manage personal finances to achieve financial goals, prepare bank account documents, maintain financial records, prepare personal income tax forms, manage credit and debt (credit scores/identity theft), insurance, saving and investing strategies",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Business"
-        ]
+        "tags": ["Business"]
     },
     "entrepreneurship": {
         "coursename": "Entrepreneurship",
@@ -3005,9 +2691,7 @@
         "description": "Students will learn about starting and running their own business. A custom business plan will be developed after exploring topics such as innovation & creativity, business opportunities, marketing & marketing research, finance business operations, and monitoring success. BizInnovator Curriculum, developed by the University of Iowa, will be used and is tied into the National Entrepreneurship Standards, the Iowa Core Curriculum, and 21st Century Skills.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Business"
-        ]
+        "tags": ["Business"]
     },
     "ap-microeconomics": {
         "coursename": "AP Microeconomics",
@@ -3024,9 +2708,7 @@
         "description": "This course will focus on economic concepts (scarcity, choice, incentives); supply, demand, and markets; product markets (production, productivity, competitive markets); resource markets (demand for resources, wage rates); microeconomics of government; microeconomic issues and policies.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Business"
-        ]
+        "tags": ["Business"]
     },
     "theroarstore": {
         "coursename": "TheROARstore",
@@ -3043,9 +2725,7 @@
         "description": "Students will be involved in the continued development and on-going operations of theROARstore. theROARstore is a student-run business, specializing in selling branded Linn-Mar merchandise. Students will learn customer service and selling skills in the classroom and develop & hone them while working in the store. In addition, students will spend time on developroducts accordingly, and promote them using social media, email marketing, and website design. Activities may include (but are not limited to); research and development, market & product planning, promotion, pricing, merchandising, selling, management, distribution, and financial analysis. Skills needed to be successful include; creative and logical thinking, timeliness, dependability, willingness to work as a team, effective communication, attention to detail, ethical behavior, and professional and mature demeanor when working with customers, advisors, and individuals in positions of authority.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Business"
-        ]
+        "tags": ["Business"]
     },
     "computer-aided-design": {
         "coursename": "Computer Aided Design",
@@ -3062,9 +2742,7 @@
         "description": "This course is designed to teach the practical application of 2- and 3- dimensional computer aided design (CAD). Students will learn to use different types of software to model objects and communicate their ideas in industrial and commercial applications.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Trade"
-        ]
+        "tags": ["Trade"]
     },
     "residential-construction-i": {
         "coursename": "Residential Construction I",
@@ -3081,9 +2759,7 @@
         "description": "This is an introductory course for students who wish to explore the construction industry and related careers. Major activities covered through construction of a wall section include; concrete framing, roofing, plumbing and electrical.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Trade"
-        ]
+        "tags": ["Trade"]
     },
     "residential-construction-ii": {
         "coursename": "Residential Construction II",
@@ -3100,9 +2776,7 @@
         "description": "This is an advance course that provides students an opportunity to learn about materials, processes and careers found in Residential Construction. Activities include building and expanding on basics covered in Residential Construction I.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Trade"
-        ]
+        "tags": ["Trade"]
     },
     "woods,-materials-and-processes": {
         "coursename": "Woods, Materials and Processes",
@@ -3119,9 +2793,7 @@
         "description": "This course is designed to teach skills necessary for basic woodworking applications. The course stresses student safety through a series of demonstrations and safety tests. Students will plan and construct introductory projects to gain skills necessary to complete a final project of their choosing. A lathe project is also required.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Trade"
-        ]
+        "tags": ["Trade"]
     },
     "cabinet-making": {
         "coursename": "Cabinet Making",
@@ -3138,9 +2810,7 @@
         "description": "This course is designed to expand basic skills learned in Woods, Materials and Processes. A review of machine safety will precede project work. Students will design and draw plans for their project, calculate costs and devise a plan of procedure for completion of their project prior to starting work. Project work will be required to include at least one dovetailed drawer, rail, stile and panel piece.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Trade"
-        ]
+        "tags": ["Trade"]
     },
     "metals,-materials-and-processes": {
         "coursename": "Metals, Materials and Processes",
@@ -3157,9 +2827,7 @@
         "description": "This course will provide students the opportunity to explore the field of metal and develop skills in working with metal fabrication. The areas covered are welding, sheet metal, machining, and foundry.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Trade"
-        ]
+        "tags": ["Trade"]
     },
     "building-trades-capstone-course": {
         "coursename": "Building Trades Capstone Course",
@@ -3176,9 +2844,7 @@
         "description": "Linn-Mar and Marion High School students work two hours a day to build a full-sized house. The course includes all skills and tasks needed to complete this activity.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Trade"
-        ]
+        "tags": ["Trade"]
     },
     "intro-to-engineering-design": {
         "coursename": "Intro to Engineering Design",
@@ -3195,9 +2861,7 @@
         "description": "Students in this hands-on, project-based course will focus on creative design processes, communication and teamwork skills. 3D CAD software will be used to produce, analyze, and evaluate product modes. Sketching, geometric relationships, 3D modeling, production and marketing will be studied through the development of designs.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Trade"
-        ]
+        "tags": ["Trade"]
     },
     "digital-electronics-(de)": {
         "coursename": "Digital Electronics (DE)",
@@ -3214,9 +2878,7 @@
         "description": "This course studies electronic circuits that are used to process and control digital signals as opposed to analog signals that are varying. This distinction allows for greater signal speed and storage capabilities and has revolutionized the world of electronics. This course provides a foundation for students who are interested in electrical engineering, electronics, or circuit design. Students study topics such as combinational and sequential logic and are exposed to circuit design tools used in industry, including logic gates, integrated circuits, and programmable logic devices.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Trade"
-        ]
+        "tags": ["Trade"]
     },
     "principles-of-engineering": {
         "coursename": "Principles of Engineering",
@@ -3233,9 +2895,7 @@
         "description": "Students will apply science and math to solve practical problems. Topics covered include machines, kinematics, thermodynamics, control systems and materials. This course will give students an idea of what some college engineering coursework is like.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Trade"
-        ]
+        "tags": ["Trade"]
     },
     "civil-engineering-and-architectural-design-(cea)": {
         "coursename": "Civil Engineering and Architectural Design (CEA)",
@@ -3252,9 +2912,7 @@
         "description": "Students learn about various aspects of civil engineering and architecture and apply their knowledge to the design and development of residential and commercial properties and structures. Students will use 3D design software to design and document solutions for major course projects. Students communicate and present solutions to their peers and members of a professional community of engineers and architects.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Trade"
-        ]
+        "tags": ["Trade"]
     },
     "computer-integrated-manufacturing-(cim)": {
         "coursename": "Computer Integrated Manufacturing (CIM)",
@@ -3271,9 +2929,7 @@
         "description": "How are things made? What processes go into creating products? Is the process for making a water bottle the same as it is for a musical instrument? How do assembly lines work? How has automation changed the face of manufacturing? While students discover the answers to these questions, they are learning about the history of manufacturing, robotics and automation, manufacturing processes, computer modeling, manufacturing equipment, and flexible manufacturing systems.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Trade"
-        ]
+        "tags": ["Trade"]
     },
     "computer-science-essentials-(cse)": {
         "coursename": "Computer Science Essentials (CSE)",
@@ -3290,9 +2946,7 @@
         "description": "In this entry level computer science course, students will learn to program apps using a graphical, block-based programming language. After learning fundamentals of -based programming using the Python language. Students will continue using Python as they learn to create web applications. Students will use a variety of tools and computational thinking concepts as they build confidence and gain experience in the field of computer science.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Trade"
-        ]
+        "tags": ["Trade"]
     },
     "computer-science-principles-(csp)": {
         "coursename": "Computer Science Principles (CSP)",
@@ -3309,9 +2963,7 @@
         "description": "Explore a variety of fields within computer science; Python programming, app development, visualization of data, image data manipulation, graphical user interfaces, cybersecurity, simulation, and creating webpages. This course aims to develop computational thinking, generate interest in career paths that utilize computing, and introduce a variety of professional tools that foster creativity and collaboration. CSP helps students develop programming experience, confidence and explore the workings of the Internet.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Trade"
-        ]
+        "tags": ["Trade"]
     },
     "advanced-placement-computer-science-a-(csa)": {
         "coursename": "Advanced Placement Computer Science A (CSA)",
@@ -3328,9 +2980,7 @@
         "description": "CSA students will learn fundamentals of the Java programming language and continue on to object oriented programming. Students develop skills in solving computational problems, writing algorithms, testing code, and processing data.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Trade"
-        ]
+        "tags": ["Trade"]
     },
     "aerospace-engineering-(ae)": {
         "coursename": "Aerospace Engineering (AE)",
@@ -3347,9 +2997,7 @@
         "description": "The major focus of the Aerspace Engineering course is to expose students to the world of aeronautics, flight, and engineering. Students will employ engineering and scientific concepts in the solution of aerospace problems. Lessons will engage students in engineering design problems related to aerospace information systems, astronautics, rocketry, propulsion, the physics of space science, space life sciences, the biology of spce science, principles of aeronautics, structures and materials, and systems engineering.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Trade"
-        ]
+        "tags": ["Trade"]
     },
     "engineering-design-and-development-(edd)": {
         "coursename": "Engineering Design and Development (EDD)",
@@ -3366,9 +3014,7 @@
         "description": "Utilizing activity-project-problem-based (APPB) teaching and learning pedagogy, students will perform research to choose, validate, and justify a technical problem. After carefully defining the problem, teams of students will design, build, and test their solution. Finally, student teams will present and defend their original solution to an outside panel. While progressing through the engineering design process, students will work closely with experts and will continually hone their organizational, communication and interpersonal skills, their creative and problem-solving abilities, and their understanding of the design process.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Trade"
-        ]
+        "tags": ["Trade"]
     },
     "foundations-of-living": {
         "coursename": "Foundations of Living",
@@ -3385,9 +3031,7 @@
         "description": "Students explore basic fundamentals of home and life management. Curriculum covers multiple focuses, including Child Development- infant through preschool, Home Design- living spaces and design principles, and Fashion and Sewing- Clothing choices and sewing skills.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Life Skills"
-        ]
+        "tags": ["Life Skills"]
     },
     "culinary-basics": {
         "coursename": "Culinary Basics",
@@ -3404,9 +3048,7 @@
         "description": "This is an introductory foods course that develops skills and techniques related to the selection, storage, and preparation of basic foods.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Life Skills"
-        ]
+        "tags": ["Life Skills"]
     },
     "fashion-and-sewing-or-creative-sewing": {
         "coursename": "Fashion and Sewing or Creative Sewing",
@@ -3423,9 +3065,7 @@
         "description": "Students will learn to sew or increase sewing skills in this hands-on project based course. Various tools and equipment will be used to produce a variety of projects. Students will also examine their personal style, apply design principles to clothing and learn about careers in the fashion industry.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Life Skills"
-        ]
+        "tags": ["Life Skills"]
     },
     "interior-design": {
         "coursename": "Interior Design",
@@ -3442,9 +3082,7 @@
         "description": "This course investigates housing choices and the design of living areas. Students explore, apply, and evaluate the elements and principles of design, wall and floor treatments, furniture styles and arrangement, housing types available, floor plan design, landscaping, financial aspects related to housing, and related careers.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Life Skills"
-        ]
+        "tags": ["Life Skills"]
     },
     "advanced-sewing": {
         "coursename": "Advanced Sewing",
@@ -3461,9 +3099,7 @@
         "description": "Students in this class will increase sewing machine skills by creating multiple projects with minimal instructor assistance. Also, students will explore other textile production methods such as embroidery, knitting, dyeing, and weaving.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Life Skills"
-        ]
+        "tags": ["Life Skills"]
     },
     "prostart-one": {
         "coursename": "ProStart One",
@@ -3480,9 +3116,7 @@
         "description": "Topics addressed in ProStart One include successful customer relations, food safety, workplace safety, kitchen basics, foodservice equipment, communication, workplace ethics, and careers in the hospitality and tourism industry. Food preparation labs will include the following foods; stocks, soups, sauces, fruits, vegetables, potatoes, and grains.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Life Skills"
-        ]
+        "tags": ["Life Skills"]
     },
     "prostart-two": {
         "coursename": "ProStart Two",
@@ -3499,9 +3133,7 @@
         "description": "Topics include sustainability in the food service industry and global cuisine in America, Europe, the Mediterranean, the Middle East, and in Asia with an emphasis on nutrition and cost control. Food preparation labs will include the following; breakfast foods and sandwiches, salads, garnishing, meat, poultry, seafood, desserts, and baked goods.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Life Skills"
-        ]
+        "tags": ["Life Skills"]
     },
     "human-growth-and-development": {
         "coursename": "Human Growth and Development",
@@ -3518,9 +3150,7 @@
         "description": "This course explores the different stages of human life- Prenatal, Infancy, Childhood, Adolescence, and Adulthood. Developmental milestones and major life events of an individual will be examined. This course provides an opportunity to interact with children of various ages to learn about will be practiced.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Life Skills"
-        ]
+        "tags": ["Life Skills"]
     },
     "kcc-child-growth-and-development": {
         "coursename": "KCC Child Growth and Development",
@@ -3537,9 +3167,7 @@
         "description": "Students will earn credit from Kirkwood Community College upon successful completion of this course. This course will study the development of children thru adolescence age. Areas of study will examine interactions between child, family, school and society. Theories and evidence-based practices associated with understanding and supporting children will be covered. This course provides opportunities to observe in an elementary classroom.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Life Skills"
-        ]
+        "tags": ["Life Skills"]
     },
     "kcc-exploring-teaching": {
         "coursename": "KCC Exploring Teaching",
@@ -3556,9 +3184,7 @@
         "description": "This class will promote understanding of the teaching and learning process. Students will be given an introduction to the activities and concerns of beginning teachers. The focus is on developing the skills, knowledge and attitude that will be needed to teach in elementary and secondary classrooms. Microteachings are utilized to simulate actual teaching situations and common teaching problems are discussed through case studies.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Life Skills"
-        ]
+        "tags": ["Life Skills"]
     },
     "kcc-behavior-management": {
         "coursename": "KCC Behavior Management",
@@ -3575,9 +3201,7 @@
         "description": "This course develops skills of observation and management of the behavior of others individually and in groups. Students will gain an understanding about the purpose of behavior and will develop strategies necessary to successfully correct and manage behavior. This course meets part of the requirement for the Para-Educator Generalist Certification.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Life Skills"
-        ]
+        "tags": ["Life Skills"]
     },
     "prostart-internship": {
         "coursename": "ProStart Internship",
@@ -3594,9 +3218,7 @@
         "description": "Should be taken between ProStart One and ProStart Two. Must be taken if interested in Kirkwood Community College credit. While classroom experience is necessary to learn the foundational culinary and management skills, nothing beats real-life experience gained by working in the industry. Students must have a minimum of 400 hours of paid work experience. They must complete 52 of 75 competencies from the Student Work Experience Checklist, to be determined by employers. These courses are also found in the Science and DEM Department courses offered.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Business"
-        ]
+        "tags": ["Business"]
     },
     "lmhs-talented-and-gifted-freshman-seminar-tag-1": {
         "coursename": "LMHS Talented and Gifted Freshman Seminar TAG 1",
@@ -3613,9 +3235,7 @@
         "description": "Students explore how their skills, abilities, and specific personality traits relate to educational and career options. They will also study the college admissions process, scholarship application process, and how to find a college that best suits their goals. Students also participate in a community service project.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "independent-study-tag-5": {
         "coursename": "Independent Study TAG 5",
@@ -3632,9 +3252,7 @@
         "description": "This course is designed for students with demonstrated research skills who have a commitment to independent learning. Working with mentors from the community, students will plan and complete independent in-depth projects.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "ap-independent-study": {
         "coursename": "AP Independent Study",
@@ -3651,9 +3269,7 @@
         "description": "Independent study options are limited to AP MACROECONOMICS and AP ENGLISH LANGUAGE AND COMPOSITION. Courses are offered through the Iowa Online AP Academy. You need at least one skinny in your schedule. Limited enrollment.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "english-9": {
         "coursename": "English 9",
@@ -3670,9 +3286,7 @@
         "description": "This course develops communication skills in reading, speaking, listening, thinking and writing. It includes units in the short story, the novel, poetry, drama and research. The student will practice various forms of writing and will work toward improving grammar, mechanics, and vocabulary.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "english-10": {
         "coursename": "English 10",
@@ -3689,9 +3303,7 @@
         "description": "This course develops communication skills in reading, speaking, listening, thinking and writing. It includes units in the short story, the novel, poetry, drama and research. The student will practice various forms of writing and will work toward improving grammar, mechanics, and vocabulary.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "american-literature-i": {
         "coursename": "American Literature I",
@@ -3708,9 +3320,7 @@
         "description": "Students will read, discuss, and analyze a variety of texts written by American authors, including short stories, plays, and The Great Gatsby. Students will research, collaborate, and present on topics related to the literature.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "writing": {
         "coursename": "Writing",
@@ -3727,9 +3337,7 @@
         "description": "This course is designed for any student who is considering college, interested in improving general writing skills, and/or considering taking Composition I. Students will improve organizational skills in writing, learn how to develop their ideas, improve their skills in word choice and sentence structure, improve their mechanics in writing, improve their research skills, and learn how to better develop and write a research paper in MLA style. Papers may include the following essays; Personal, Definition, Division/Classification, Comparison/Contrast, and Persuasive. In addition, students will write a research paper in which they will support their position on a contemporary issue.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "reading-i": {
         "coursename": "Reading I",
@@ -3746,9 +3354,7 @@
         "description": "Students will read Jurassic Park. They will work on reading fluency and comprehension. Students will research, collaborate, and present on relevant topics. Students will also improve their writing skills.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "reading-ii": {
         "coursename": "Reading II",
@@ -3765,9 +3371,7 @@
         "description": "Students will read The Lost World. They will work on reading fluency and comprehension. Students will research, collaborate, and present on relevant topics. Students will also improve their writing skills. They will create a project that illustrates their learning over the course of the quarter.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "english-skills": {
         "coursename": "English Skills",
@@ -3784,9 +3388,7 @@
         "description": "Students will work on their areas of weakness in relation to reading, writing, or speaking. Students will demonstrate growth in this area through a relevant project.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "contemporary-literature-ii": {
         "coursename": "Contemporary Literature II",
@@ -3803,9 +3405,7 @@
         "description": "Students will read multiple novels of their choice of the appropriate reading level. Students will complete multiple projects to promote lifelong literacy and will discover how technology and the internet can enhance reading selections. Students will then present their projects to their peers.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "independent-novel-writing": {
         "coursename": "Independent Novel Writing",
@@ -3822,9 +3422,7 @@
         "description": "Students will spend their classes writing, revising, and meeting with their instructor to improve their writing skills.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "English"
-        ]
+        "tags": ["English"]
     },
     "pre-algebra": {
         "coursename": "Pre-Algebra",
@@ -3841,9 +3439,7 @@
         "description": "This course is an introductory class for Algebra. It is designed to review basic skills and math concepts. Elementary algebra skills with variables and problem-solving techniques will be imperative to the curriculum.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Math"
-        ]
+        "tags": ["Math"]
     },
     "algebra-fundamentals-i": {
         "coursename": "Algebra Fundamentals I",
@@ -3860,9 +3456,7 @@
         "description": "This course is designed to include material covered in the first semester of Algebra. Topics include negative numbers, absolute values, opposites, linear equations, and inequalities in word problems.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Math"
-        ]
+        "tags": ["Math"]
     },
     "algebra-fundamentals-ii": {
         "coursename": "Algebra Fundamentals II",
@@ -3879,9 +3473,7 @@
         "description": "This course is designed to include material covered in the second semester of Algebra. Topics include negative numbers, absolute values, opposites, linear equations, and inequalities in one variable word problems, factoring, graphing, and quadratic equations.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Math"
-        ]
+        "tags": ["Math"]
     },
     "general-biology-i-&-ii": {
         "coursename": "General Biology I & II",
@@ -3898,9 +3490,7 @@
         "description": "This course is a survey class in life science. The areas investigated include; continuity and change; diversity of life.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "stream-&-field-biology": {
         "coursename": "Stream & Field Biology",
@@ -3917,9 +3507,7 @@
         "description": "This course emphasizes critical thinking and application of scientific process skills in the identification, analysis, and evaluation of environmental problems and issues, as well as discussions of potential solutions.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "human-anatomy": {
         "coursename": "Human Anatomy",
@@ -3936,9 +3524,7 @@
         "description": "This course provides students with the fundamental concepts of human structure and function as it pertains to their bodies.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "nature-of-science": {
         "coursename": "Nature of Science",
@@ -3955,9 +3541,7 @@
         "description": "This course examines what science is, how it works, and what it can and cannot do. A number of activities and open inquiries look at some fundamental properties and laws of the physical world. These properties include motion, forces, momentum, and energy.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "advanced-biology": {
         "coursename": "Advanced Biology",
@@ -3974,9 +3558,7 @@
         "description": "This course provides a more in-depth study of many areas of biology. The areas of emphasis include cell processes, energy pathways, genetics, DNA structure, and the regulation of gene expression.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Science"
-        ]
+        "tags": ["Science"]
     },
     "botany": {
         "coursename": "Botany",
@@ -3993,9 +3575,7 @@
         "description": "Students will have experiences with a number of plant science -and problems. Student experiences will involve the study of plant anatomy and physiology, classification, and the planning, planting and caring for a school garden.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Agriculture"
-        ]
+        "tags": ["Agriculture"]
     },
     "math-for-the-building-trades": {
         "coursename": "Math for the Building Trades",
@@ -4012,9 +3592,7 @@
         "description": "This course is directed toward students who are considering employment in the building trades upon graduation. Students will integrate arithmetic, algebra, and geometry to perform calculations required in all of the major building trades, including construction, carpentry, plumbing, electrical, HVAC, and roofing.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Math"
-        ]
+        "tags": ["Math"]
     },
     "teen-insights": {
         "coursename": "Teen Insights",
@@ -4031,9 +3609,7 @@
         "description": "The class is a combination of notes, chapters from 7 Habits of Highly Effective Teens, movies, projects, and community speakers including Planned Parenthood and ASAC. Students will explore a variety of topics and issues relevant to teens. Students will research and present on multiple topics throughout the course.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Health/PE"
-        ]
+        "tags": ["Health/PE"]
     },
     "compass-electives": {
         "coursename": "Compass Electives",
@@ -4050,9 +3626,7 @@
         "description": "Students will help the teacher with day to day activities.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            null
-        ]
+        "tags": [null]
     },
     "introduction-to-business-ii": {
         "coursename": "Introduction to Business II",
@@ -4069,9 +3643,7 @@
         "description": "This course will continue the overview of the study of business including; International business, small business management, maintaining financial information, human resources, career planning, and the role of the consumer.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Business"
-        ]
+        "tags": ["Business"]
     },
     "economics-i": {
         "coursename": "Economics I",
@@ -4088,9 +3660,7 @@
         "description": "This course will focus on economic concepts; free enterprise, supply, demand, equilibrium, shifting demand and supply curves, consumers, savers, and investors, and financing.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "History"
-        ]
+        "tags": ["History"]
     },
     "economics-ii": {
         "coursename": "Economics II",
@@ -4107,9 +3677,7 @@
         "description": "This course will continue to focus on economic concepts; GDP, productivity, the labor force, competition, tthe economy, the money supply, international trade and globalization.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "History"
-        ]
+        "tags": ["History"]
     },
     "pe": {
         "coursename": "PE",
@@ -4126,9 +3694,7 @@
         "description": "Students will improve their strength, agility, and speed while participating in activities that will develop lifelong healthy habits.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Health/PE"
-        ]
+        "tags": ["Health/PE"]
     },
     "independent-foods": {
         "coursename": "Independent Foods",
@@ -4145,8 +3711,6 @@
         "description": "Students will explore what goes into budgeting and meal planning. Student will prepare a variety of foods.",
         "studentrecommendations": null,
         "difficulty": null,
-        "tags": [
-            "Health/PE"
-        ]
+        "tags": ["Health/PE"]
     }
 }

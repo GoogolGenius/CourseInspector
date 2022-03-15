@@ -1,7 +1,7 @@
-const regex = require('regex');
+const regex = require("regex");
 
 if (process.argv.length < 3) {
-    console.log('Usage: node ' + process.argv[1] + ' FILENAME');
+    console.log("Usage: node " + process.argv[1] + " FILENAME");
     process.exit(1);
 }
 
@@ -16,11 +16,27 @@ const dict = {
     SCI: "Science",
     HPE: "Health/PE",
     ART: "Art",
-    FOR: "Foreign Language"
-}
+    FOR: "Foreign Language",
+};
 
 class Course {
-    constructor(coursename = null, courseid = null, gradelevels = null, credits = null, length = null, format = null, fees = null, prerequisites = null, corequisite = null, subsequent = null, considerations = null, description = null, studentrecommendations = null, difficulty = null, tags = []) {
+    constructor(
+        coursename = null,
+        courseid = null,
+        gradelevels = null,
+        credits = null,
+        length = null,
+        format = null,
+        fees = null,
+        prerequisites = null,
+        corequisite = null,
+        subsequent = null,
+        considerations = null,
+        description = null,
+        studentrecommendations = null,
+        difficulty = null,
+        tags = []
+    ) {
         this.coursename = coursename;
         this.courseid = courseid;
         this.gradelevels = gradelevels;
@@ -59,10 +75,11 @@ function reverseString(str) {
 }
 
 // Read the file and print its contents.
-var fs = require('fs'), filename = process.argv[2];
-fs.readFile(filename, 'utf8', function (err, data) {
+var fs = require("fs"),
+    filename = process.argv[2];
+fs.readFile(filename, "utf8", function (err, data) {
     if (err) throw err;
-    console.log('OK: ' + filename);
+    console.log("OK: " + filename);
 
     //split by newlines, as course data is split that way.
     let rawArr = data.split("\n");
@@ -98,7 +115,7 @@ fs.readFile(filename, 'utf8', function (err, data) {
 
         for (let j = 0; j < keyArr.length; j++) {
             let key = keyArr[j];
-            if ((j + 1) != keyArr.length) {
+            if (j + 1 != keyArr.length) {
                 let value = rawArr[i].substring(
                     rawArr[i].indexOf(keyArr[j]) + keyArr[j].length,
                     rawArr[i].indexOf(keyArr[j + 1])
@@ -107,8 +124,7 @@ fs.readFile(filename, 'utf8', function (err, data) {
                 key = key.slice(0, -1);
                 value = value.trim();
                 course[key] = value;
-            }
-            else {
+            } else {
                 let value = rawArr[i].substring(
                     rawArr[i].indexOf(keyArr[j]) + keyArr[j].length,
                     rawArr[i].length
@@ -120,9 +136,9 @@ fs.readFile(filename, 'utf8', function (err, data) {
             const data = JSON.stringify(course, null, 4);
             let title = course.coursename;
 
-            const search = ' ';
-            const replaceWith = '-';
-            title = (title.split(search).join(replaceWith)).toLowerCase();
+            const search = " ";
+            const replaceWith = "-";
+            title = title.split(search).join(replaceWith).toLowerCase();
 
             masterObject[title] = course;
 
@@ -130,7 +146,6 @@ fs.readFile(filename, 'utf8', function (err, data) {
             //writeJSON(title, data);
 
             function writeJSON(title, data) {
-                
                 fs.writeFileSync(`generated-data/${title}.json`, data);
 
                 /*
@@ -168,5 +183,4 @@ fs.readFile(filename, 'utf8', function (err, data) {
     }
 
     fs.writeFileSync(`coursedata.json`, JSON.stringify(masterObject, null, 4));
-
 });
