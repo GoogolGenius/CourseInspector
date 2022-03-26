@@ -126,3 +126,66 @@ body {
     box-shadow: 35px -35px 0 10px var(--white);
     pointer-events: none;
 }
+
+/* Splashpage */
+.hero {
+    width: 100%;
+    min-height: 100vh;
+    background-color: var(--white);
+}
+
+.hero__container {
+    width: 100%;
+    min-height: 100vh;
+    max-width: 1000px;
+    padding: var(--default-page-padding);
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero__content {
+    color: var(--black1);
+}
+
+.hero__content h1 {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+.hero__content p {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+    max-width: 55%;
+}
+
+.hero__button {
+    display: inline-block;
+    border: none;
+    border-radius: 9999px;
+    padding: 1rem 2rem;
+    margin: 0;
+    text-decoration: none;
+    background: var(--blue);
+    color: #ffffff;
+    font-family: inherit;
+    font-size: 1rem;
+    cursor: pointer;
+    text-align: center;
+    transition: background 250ms ease-in-out, transform 150ms ease;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+.wave__spacer {
+    aspect-ratio: 960 / 300;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-size: cover;
+}
+
+.wave--blue {
+    background-image: url("assets/layered-waves-blue.svg");
+}
