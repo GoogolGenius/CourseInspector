@@ -214,13 +214,13 @@ body {
     align-items: center;
     height: 100%;
     width: 100%;
-    max-width: 400px;
+    max-width: 500px;
 }
 
 .hero-card__card {
     border: solid 1px #eeeeee40;
     border-radius: 1rem;
-    padding: 1.5rem;
+    padding: 2rem;
     background-color: #fafafa88;
     backdrop-filter: blur(16px) saturate(180%);
 }
