@@ -142,7 +142,7 @@ body {
     overflow: auto;
     width: 100%;
     min-height: 100vh;
-    background-color: var(--white);
+    background: linear-gradient(to left, #24b465, var(--white), var(--white));
     display: flex;
     flex-direction: column;
 }
@@ -218,10 +218,11 @@ body {
 }
 
 .hero-card__card {
-    border: solid 1px #eeeeee;
+    border: solid 1px #eeeeee40;
     border-radius: 1rem;
     padding: 1.5rem;
-    background-color: var(--grey);
+    background-color: #fafafa88;
+    backdrop-filter: blur(16px) saturate(180%);
 }
 
 .hero-card__content {
@@ -266,6 +267,10 @@ body {
 }
 
 @media (max-width: 55em) {
+    .hero__body {
+        background: linear-gradient(to top, #24b465, var(--white), var(--white));
+    }
+
     .hero__container {
         flex-direction: column;
         gap: 100px;
