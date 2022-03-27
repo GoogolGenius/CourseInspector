@@ -9,6 +9,7 @@
 
 :root {
     --blue: #000479;
+    --blue-light: #3dc2ff;
     --white: #fff;
     --grey: #fafafa;
     --black1: #222;
@@ -16,6 +17,7 @@
     --purple: #b940ff;
     --purple-50: #b940ff88;
     --purple-dark: #7c08be;
+    --purple-dark-50: #7c08be88;
 }
 
 body {
@@ -131,20 +133,27 @@ body {
 }
 
 /* Splashpage */
-.logo {
-    font-size: 2rem;
-    font-weight: 700;
-    padding: clamp(25px, 5vw, 50px);
-    color: var(--blue);
-}
-
 .hero__body {
     overflow: auto;
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(to left, #1649a8, var(--white), var(--white));
+    background: linear-gradient(to left, var(--blue-light), var(--white), var(--white));
     display: flex;
     flex-direction: column;
+}
+
+.hero__header {
+    padding: clamp(25px, 5vw, 50px);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: clamp(1rem, 5vw, 25px);
+}
+
+.logo {
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--blue);
 }
 
 .hero__container {
@@ -169,7 +178,8 @@ body {
 }
 
 .hero__content p {
-    font-size: 1rem;
+    font-size: 1.25rem;
+    font-weight: 500;
     margin-bottom: 0.5rem;
 }
 
@@ -178,7 +188,7 @@ body {
     border-radius: 9999px;
     padding: 1rem 2rem;
     text-decoration: none;
-    background: var(--purple);
+    background-color: var(--purple);
     color: #ffffff;
     font-size: 1rem;
     cursor: pointer;
@@ -189,6 +199,12 @@ body {
 .hero__button:hover {
     background: var(--purple-dark);
     transition: 0.4s ease;
+}
+
+.hero__cta {
+    background-color: var(--purple-50);
+    border: 1px solid var(--purple-dark-50);
+    backdrop-filter: blur(16px) saturate(180%);
 }
 
 .wave__spacer {
@@ -268,7 +284,7 @@ body {
 
 @media (max-width: 55em) {
     .hero__body {
-        background: linear-gradient(to top, #1649a8, var(--white), var(--white));
+        background: linear-gradient(to top, var(--blue-light), var(--white), var(--white));
     }
 
     .hero__container {
