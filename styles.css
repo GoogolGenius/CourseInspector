@@ -13,9 +13,9 @@
     --grey: #fafafa;
     --black1: #222;
     --black2: #999;
-    --red: #ff4040;
-    --red-50: #ff404088;
-    --red-dark: #ac2c2c;
+    --purple: #b940ff;
+    --purple-50: #b940ff88;
+    --purple-dark: #7c08be;
 }
 
 body {
@@ -142,7 +142,7 @@ body {
     overflow: auto;
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(to left, #24b465, var(--white), var(--white));
+    background: linear-gradient(to left, #1649a8, var(--white), var(--white));
     display: flex;
     flex-direction: column;
 }
@@ -178,7 +178,7 @@ body {
     border-radius: 9999px;
     padding: 1rem 2rem;
     text-decoration: none;
-    background: var(--red);
+    background: var(--purple);
     color: #ffffff;
     font-size: 1rem;
     cursor: pointer;
@@ -187,7 +187,7 @@ body {
 }
 
 .hero__button:hover {
-    background: var(--red-dark);
+    background: var(--purple-dark);
     transition: 0.4s ease;
 }
 
@@ -203,9 +203,9 @@ body {
     background-image: url("assets/layered-waves-blue-100.svg");
 }
 
-.underline--red {
+.underline--purple {
     font: inherit;
-    box-shadow: inset 0 -0.4em var(--red-50);
+    box-shadow: inset 0 -0.4em var(--purple-50);
 }
 
 .hero-card__container {
@@ -268,7 +268,7 @@ body {
 
 @media (max-width: 55em) {
     .hero__body {
-        background: linear-gradient(to top, #24b465, var(--white), var(--white));
+        background: linear-gradient(to top, #1649a8, var(--white), var(--white));
     }
 
     .hero__container {
