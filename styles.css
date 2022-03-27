@@ -15,6 +15,7 @@
     --black2: #999;
     --red: #ff4040;
     --red-50: #ff404088;
+    --red-dark: #ac2c2c;
 }
 
 body {
@@ -133,11 +134,11 @@ body {
 .logo {
     font-size: 2rem;
     font-weight: 700;
-    padding: clamp(25px, 10vw, 50px);
+    padding: clamp(25px, 5vw, 50px);
     color: var(--blue);
 }
 
-.hero {
+.hero__body {
     overflow: auto;
     width: 100%;
     min-height: 100vh;
@@ -148,15 +149,17 @@ body {
 
 .hero__container {
     width: 100%;
-    max-width: 600px;
-    padding: clamp(25px, 10vw, 50px);
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
     flex-grow: 1;
+    padding: clamp(25px, 5vw, 50px);
+    gap: 25px;
+    flex-direction: row;
 }
 
 .hero__content {
+    max-width: 600px;
     color: var(--black1);
 }
 
@@ -172,20 +175,20 @@ body {
 
 .hero__button {
     display: inline-block;
-    border: none;
     border-radius: 9999px;
     padding: 1rem 2rem;
-    margin: 0;
     text-decoration: none;
     background: var(--red);
     color: #ffffff;
-    font-family: inherit;
     font-size: 1rem;
     cursor: pointer;
     text-align: center;
-    transition: background 250ms ease-in-out, transform 150ms ease;
-    -webkit-appearance: none;
-    -moz-appearance: none;
+    transition: 0.4s ease;
+}
+
+.hero__button:hover {
+    background: var(--red-dark);
+    transition: 0.4s ease;
 }
 
 .wave__spacer {
@@ -203,4 +206,68 @@ body {
 .underline--red {
     font: inherit;
     box-shadow: inset 0 -0.4em var(--red-50);
+}
+
+.hero-card__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    max-width: 400px;
+}
+
+.hero-card__card {
+    border: solid 1px rgb(221, 221, 221);
+    border-radius: 1rem;
+    padding: 1.5rem;
+    background-color: var(--grey);
+}
+
+.hero-card__content {
+    color: var(--black1);
+}
+
+.hero-card__content h1 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.hero-card__content ul {
+    margin-top: calc(1rem - 0.5rem);
+    list-style: none;
+    gap: 0.5rem;
+}
+
+.hero-card__content ul li {
+    float: left;
+    padding: 0.5rem 1rem;
+    margin-right: 0.5rem;
+    margin-top: 0.5rem;
+    border-radius: 9999px;
+    color: var(--white);
+    text-align: center;
+}
+
+.hero-card__content ul li:last-child {
+    margin-right: 0;
+}
+
+#tech {
+    background-color: #24b465;
+}
+
+#ap {
+    background-color: #ff40a9;
+}
+
+#example {
+    background-color: #1649a8;
+}
+
+@media (max-width: 55em) {
+    .hero__container {
+        flex-direction: column;
+        gap: 100px;
+    }
 }
