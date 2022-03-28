@@ -154,6 +154,13 @@ body {
     font-size: 2rem;
     font-weight: 700;
     color: var(--blue);
+    text-decoration: none;
+}
+
+.logo__icon {
+    --ionicon-stroke-width: 2.5rem;
+    vertical-align: middle;
+    margin-right: 1rem;
 }
 
 .hero__container {
@@ -290,5 +297,15 @@ body {
     .hero__container {
         flex-direction: column;
         gap: 100px;
+    }
+}
+
+@media (max-width: 35em) {
+    .logo__text {
+        display: none;
+    }
+
+    .logo__icon {
+        margin-right: 1rem;
     }
 }
