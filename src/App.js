@@ -1,8 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
-import coursedata from './data/coursedata.json'
+import user from "./assets/user.jpg";
+import "./App.css";
+import coursedata from "./data/coursedata.json";
 
 function App(props) {
+    function tagToggle(id) {
+        var tag = document.getElementById(id);
+        if (tag.classList.contains("tag-true")) {
+            tag.classList.remove("tag-true");
+            let firstChild = tag.firstChild;
+            firstChild.classList.add("hide");
+        } else {
+            tag.classList.add("tag-true");
+            let firstChild = tag.firstChild;
+            firstChild.classList.remove("hide");
+        }
+    }
+
     return (
         <div className="App">
             <div class="container">
@@ -16,7 +29,7 @@ function App(props) {
                                 <span class="title">Course Inspector</span>
                             </a>
                         </li>
-                        <li>
+                        <li class="hovered">
                             <a href="#">
                                 <span class="icon">
                                     <ion-icon name="search-outline"></ion-icon>
@@ -90,14 +103,78 @@ function App(props) {
                     </div>
                     <div class="search">
                         <label>
-                            <input type="text" placeholder="Search for classes..."></input>
+                            <input
+                                id="searchbar"
+                                type="text"
+                                name="search"
+                                placeholder="Search for classes..."
+                            ></input>
                             <ion-icon name="search-outline"></ion-icon>
                         </label>
                     </div>
 
                     <div class="user">
-                        <img src="src\assets\person-outline.svg"></img>
+                        <img src={user}></img>
                     </div>
+                </div>
+                <div class="tag-container">
+                    <button
+                        id="MAT"
+                        class="tag tag-true"
+                        onClick={() => tagToggle("MAT")}
+                    >
+                        <ion-icon name="checkmark-outline"></ion-icon>
+                        <p>Math</p>
+                    </button>
+                    <button
+                        id="ENG"
+                        class="tag tag-true"
+                        onClick={() => tagToggle("ENG")}
+                    >
+                        <ion-icon name="checkmark-outline"></ion-icon>English
+                    </button>
+                    <button
+                        id="MUS"
+                        class="tag tag-true"
+                        onClick={() => tagToggle("MUS")}
+                    >
+                        <ion-icon name="checkmark-outline"></ion-icon>Music
+                    </button>
+                    <button
+                        id="SCI"
+                        class="tag tag-true"
+                        onClick={() => tagToggle("SCI")}
+                    >
+                        <ion-icon name="checkmark-outline"></ion-icon>Science
+                    </button>
+                    <button
+                        id="BUS"
+                        class="tag tag-true"
+                        onClick={() => tagToggle("BUS")}
+                    >
+                        <ion-icon name="checkmark-outline"></ion-icon>Business
+                    </button>
+                    <button
+                        id="ART"
+                        class="tag tag-true"
+                        onClick={() => tagToggle("ART")}
+                    >
+                        <ion-icon name="checkmark-outline"></ion-icon>Art
+                    </button>
+                    <button
+                        id="IND"
+                        class="tag tag-true"
+                        onClick={() => tagToggle("IND")}
+                    >
+                        <ion-icon name="checkmark-outline"></ion-icon>Trade
+                    </button>
+                    <button
+                        id="SOC"
+                        class="tag tag-true"
+                        onClick={() => tagToggle("SOC")}
+                    >
+                        <ion-icon name="checkmark-outline"></ion-icon>History
+                    </button>
                 </div>
                 <div id="course-container">{props.classitems}</div>
             </div>
@@ -106,3 +183,5 @@ function App(props) {
 }
 
 export default App;
+
+//                    <button id="foreign" class="tag tag-true" onClick={() => tagToggle("foreign")}><ion-icon name="checkmark-outline"></ion-icon>Foreign Languange</button>
