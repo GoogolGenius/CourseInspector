@@ -218,14 +218,15 @@ body {
 */
 
 div .Course {
+    position: relative;
+    margin: 20px;
     padding: 20px;
     align-content: center;
     text-align: left;
-    border-radius: 10px;
-    box-shadow: 0px 2px 4px #888888;
-    margin: 20px;
-    position: relative;
     font-size: smaller;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px #cccccc;
+    border: 1px solid #ececec;
 }
 
 .parent {
@@ -235,17 +236,50 @@ div .Course {
     row-gap: 0px;
 }
 
-@media only screen and (min-width: 400px) {
-    /* if the viewport is narrower than 400px */
+@media only screen and (min-width: 0) {
     .parent {
         grid-template-columns: repeat(1, 1fr);
     }
+
+    .navigation {
+        display: none;
+    }
+
+    .main {
+        width: 100%;
+        left: 0;
+    }
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 600px) {
     /* if the viewport is narrower than 400px */
     .parent {
         grid-template-columns: repeat(2, 1fr);
+    }
+
+    .navigation {
+        display: none;
+    }
+
+    .main {
+        width: 100%;
+        left: 0;
+    }
+}
+
+@media only screen and (min-width: 850px) {
+    /* if the viewport is narrower than 400px */
+    .parent {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .navigation {
+        display: block;
+    }
+
+    .main {
+        width: calc(100% - var(--nav-width));
+        left: var(--nav-width);
     }
 }
 
